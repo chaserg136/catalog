@@ -1,12 +1,16 @@
 {
   "meta": {
-    "generated": "2025-09-26T11:20:13"
+    "generated": "2025-09-27T11:20:11"
   },
   "movies": {
     "categories": [
       {
         "id": "new",
         "title": "Filmy – Nové"
+      },
+      {
+        "id": "trending_movies",
+        "title": "Trendy (Filmy)"
       },
       {
         "id": "2025",
@@ -417,6 +421,18 @@
           "release_date": "2025-10-08"
         },
         {
+          "title": "French Lover (2025)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/1kyWW0mLypxckG4CRBJu4gw9XxD.jpg",
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=French+Lover&original_title=French+Lover&year=2025",
+          "release_date": "2025-09-26",
+          "genre_ids": [
+            10749,
+            35
+          ],
+          "genres": []
+        },
+        {
           "title": "The Astronaut (2025)",
           "overview": "",
           "thumb": "https://image.tmdb.org/t/p/w500/yhmAXfDlHItq05dZ6rjGrAlccqb.jpg",
@@ -447,6 +463,21 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Ride&original_title=The+Ride&year=2025",
           "release_date": "2025-09-24"
+        },
+        {
+          "title": "Dead of Winter (2025)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+          "genre_ids": [
+            53,
+            28
+          ],
+          "genres": [
+            "Thriller",
+            "Akční"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dead+of+Winter&original_title=Dead+of+Winter&year=2025",
+          "release_date": "2025-09-23"
         },
         {
           "title": "Dospělost (2025)",
@@ -5542,6 +5573,21 @@
           "release_date": "2024-10-26"
         },
         {
+          "title": "V kuchyni (2024)",
+          "overview": "Během páteční obědové špičky došlo v restauraci The Grill, turistické pasti v New Yorku, která obsluhuje tisíce zákazníků, ke krádeži peněz z pokladny a všichni zaměstnanci jsou vyslýcháni. Většina z nich jsou nelegální imigranti, kteří se snaží udržet si svou práci, jediné právoplatné místo na světě, zatímco připravují nekonečné množství jídel a snaží se stíhat neustálý tok objednávek. Jedním z kuchařů je Pedro, mladý Mexičan, který hledá v životě víc, než nabízí jeho práce. Je to snílek a potížista a je zamilovaný do Julie, americké servírky, která nemůže navázat vztah s cizincem bez dokladů. Rashid, majitel restaurace, slíbí Pedrovi pomoc s doklady. Když je však Pedro obviněn z krádeže a navíc zjistí, že Julia podstoupila potrat, ztratí hlavu a dopustí se činu, který jednou provždy zastaví provoz v kuchyni.",
+          "thumb": "https://image.tmdb.org/t/p/w500/4Omp9c2Uvb5hy43JTsVGe55oOrU.jpg",
+          "genre_ids": [
+            18,
+            35
+          ],
+          "genres": [
+            "Drama",
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=V+kuchyni&original_title=La+Cocina&year=2024",
+          "release_date": "2024-10-25"
+        },
+        {
           "title": "Konkláve (2024)",
           "overview": "Děj snímku se odehrává ve Vatikánu, kde se má právě odehrát jedna z nejtajnějších a nejstarších událostí na světě – volba nového papeže. Tou je pověřen Kardinál Lawrence, který se však ocitá v centru spiknutí, které může otřást samotnými základy církve.",
           "thumb": "https://image.tmdb.org/t/p/w500/2YGg7ok21EIV95EeaZFAFcN4gZX.jpg",
@@ -8209,6 +8255,19 @@
           "release_date": "2024-05-08"
         },
         {
+          "title": "Finále: Útok na Wembley (2024)",
+          "overview": "Anglie má konečně šanci na velké fotbalové zlato. Šest tisíc fanoušků bez vstupenek ale před finále Eura vtrhne na stadion ve Wembley a nechá za sebou spoušť.",
+          "thumb": "https://image.tmdb.org/t/p/w500/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Fin%C3%A1le%3A+%C3%9Atok+na+Wembley&original_title=The+Final%3A+Attack+on+Wembley&year=2024",
+          "release_date": "2024-05-07"
+        },
+        {
           "title": "Temnota v nás (2024)",
           "overview": "Russell Hatch, agent Interpolu, který se ujímá role otce Jaydena, syna informátora zabitého při rutinním zásahu, který se zvrtl. Po letech se Hatch ocitne v situaci, kdy chrání Jaydena a jeho strýce před skupinou nemilosrdných gangů v totální válce o území, přičemž se nezastaví před ničím, aby Jaydena ochránil a bojoval proti každému, kdo se mu postaví do cesty. Včetně domnělých spojenců se skrytými úmysly a nekalými záměry.",
           "thumb": "https://image.tmdb.org/t/p/w500/5zxsN56sUWKMSguTvKYoWps63jI.jpg",
@@ -10460,6 +10519,23 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=V%C3%A1noce+pod+v%C4%9Btrn%C3%BDmi+ml%C3%BDny&original_title=Christmas+on+Windmill+Way&year=2023",
           "release_date": "2023-12-02"
+        },
+        {
+          "title": "Sladký východ (2023)",
+          "overview": "Studentka střední školy Lillian za dramatických okolností opouští školní výlet, a zdá se, že v klubu, odkud utíká, zanechává i svoji identitu. Od tohoto okamžiku se stává kýmkoliv, koho v ní vidí lidé, které na svém bezcílném putování potkává.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bWUL6hvWBElm4jrpqag8vDXELcg.jpg",
+          "genre_ids": [
+            35,
+            18,
+            14
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Fantasy"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Sladk%C3%BD+v%C3%BDchod&original_title=The+Sweet+East&year=2023",
+          "release_date": "2023-12-01"
         },
         {
           "title": "Eileen (2023)",
@@ -13212,6 +13288,21 @@
           "release_date": "2023-06-25"
         },
         {
+          "title": "1920: Horrors of the Heart (2023)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/iTe8eTiHocRLjMnx6ArBovQRqbe.jpg",
+          "genre_ids": [
+            27,
+            18
+          ],
+          "genres": [
+            "Horor",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=1920%3A+Horrors+of+the+Heart&original_title=1920%3A+Horrors+of+the+Heart&year=2023",
+          "release_date": "2023-06-23"
+        },
+        {
           "title": "Láska přes okno 2: Dálka (2023)",
           "overview": "Raquel a Ares se celý rok neviděli a teď spolu vyráží na romantický výlet k moři. Přežije tahle láska pořádnou dávku flirtování a jejich pochybnosti o sobě samých?",
           "thumb": "https://image.tmdb.org/t/p/w500/hisRiTK0zCP1sXtlCSrmFRVOVlz.jpg",
@@ -14096,6 +14187,23 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Sim%C3%B3n&original_title=Sim%C3%B3n&year=2023",
           "release_date": "2023-04-15"
+        },
+        {
+          "title": "Organ Trail (2023)",
+          "overview": "Mladá Abigale Archerová zůstává bez přátel a sama v kruté zimě v Montaně v 70. letech 19. století - bojuje o přežití a o získání svého jediného pozemského majetku, rodinného koně, od bandy krvežíznivých banditů.",
+          "thumb": "https://image.tmdb.org/t/p/w500/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
+          "genre_ids": [
+            27,
+            37,
+            18
+          ],
+          "genres": [
+            "Horor",
+            "Western",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Organ+Trail&original_title=Organ+Trail&year=2023",
+          "release_date": "2023-04-14"
         },
         {
           "title": "Poslední království: Sedm králů musí zemřít (2023)",
@@ -16562,6 +16670,21 @@
           "release_date": "2022-10-25"
         },
         {
+          "title": "The Audition (2022)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/wWZvsydfTrlkAFOxYjfA0cOerKZ.jpg",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "genres": [
+            "Thriller",
+            "Horor"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Audition&original_title=The+Audition&year=2022",
+          "release_date": "2022-10-24"
+        },
+        {
           "title": "The Spirit Board Sessions (2022)",
           "overview": "",
           "thumb": "",
@@ -16966,6 +17089,23 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Grimcutty&original_title=Grimcutty&year=2022",
           "release_date": "2022-10-10"
+        },
+        {
+          "title": "Ztracený král (2022)",
+          "overview": "V roce 2012 se pod parkovištěm v Leicesteru našly ostatky krále Richarda III., které byly více než 500 let považovány za ztracené. Za tímto úspěchem stojí amatérská historička Philippa Langleyová, jejíž výzkum se setkal s nepochopením přátel a příbuzných i s jízlivou skepsí odborníků a akademiků. Film vypráví inspirativní příběh ženy, která se nenechala přehlížet a podceňovat. Postavila se nejvýznamnějším anglickým historikům, které nakonec přiměla přehodnotit názor na jednu z nejkontroverznějších osobností anglických dějin.",
+          "thumb": "https://image.tmdb.org/t/p/w500/f3kOebicMlDMrfe0kTJ2YxqnFw0.jpg",
+          "genre_ids": [
+            35,
+            18,
+            36
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Historický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Ztracen%C3%BD+kr%C3%A1l&original_title=The+Lost+King&year=2022",
+          "release_date": "2022-10-07"
         },
         {
           "title": "The Inhabitant (2022)",
@@ -18247,6 +18387,23 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Vesper&original_title=Vesper&year=2022",
           "release_date": "2022-08-17"
+        },
+        {
+          "title": "13: Muzikál (2022)",
+          "overview": "Chytrý kluk se po rozvodu rodičů přestěhuje z New Yorku do Indiany, kde se rozhodne uspořádat tu nejlepší oslavu obřadu bar micva v dějinách.",
+          "thumb": "https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg",
+          "genre_ids": [
+            10751,
+            18,
+            35
+          ],
+          "genres": [
+            "Rodinný",
+            "Drama",
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=13%3A+Muzik%C3%A1l&original_title=13%3A+The+Musical&year=2022",
+          "release_date": "2022-08-12"
         },
         {
           "title": "Falešný agent (2022)",
@@ -23750,6 +23907,23 @@
           "release_date": "2021-08-22"
         },
         {
+          "title": "Den vlajky (2021)",
+          "overview": "Otec žije dvojí život jako padělatel, bankovní lupič a podvodník, aby zabezpečil svou dceru.\r Otec Jennifer Vogelové John byl výjimečný člověk. Jako dítě Jennifer obdivovala jeho neutuchající energii a schopnost prožívat život jako jedno velké dobrodružství. Naučil ji hodně o lásce a radosti, ale byl také nejznámějším padělatelem v dějinách Spojených států. Film je intimním portrétem mladé ženy, která se snaží vyrovnat s nezlomným poutem mezi otcem a dcerou a povznést se nad trosky své minulosti.",
+          "thumb": "https://image.tmdb.org/t/p/w500/gwEJmzgoPdAlX4OODCP2QkMMhca.jpg",
+          "genre_ids": [
+            18,
+            53,
+            80
+          ],
+          "genres": [
+            "Drama",
+            "Thriller",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Den+vlajky&original_title=Flag+Day&year=2021",
+          "release_date": "2021-08-20"
+        },
+        {
           "title": "Risen (2021)",
           "overview": "Katastrofa, kdy meteorit zasáhne malé město, způsobí neobyvatelné prostředí a zabije vše v okolí. Exobioložka Lauren je pověřena úkolem, aby objasnila tuto mimozemskou událost. Když začíná odhalovat pravdu, nastává závodem s časem o záchranu lidstva.",
           "thumb": "https://image.tmdb.org/t/p/w500/hSmJrx26NLttonxQmO3hvjHa1gF.jpg",
@@ -25288,6 +25462,21 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=First+Signal&original_title=First+Signal&year=2021",
           "release_date": "2021-04-26"
+        },
+        {
+          "title": "Unicorn (2021)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/i6cugcc0jIfRSlvEAxx2M866p8e.jpg",
+          "genre_ids": [
+            18,
+            14
+          ],
+          "genres": [
+            "Drama",
+            "Fantasy"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Unicorn&original_title=Unicorn&year=2021",
+          "release_date": "2021-04-23"
         },
         {
           "title": "Potulný samuraj Kenšin: Konec (2021)",
@@ -29348,6 +29537,19 @@
           "release_date": "2020-08-12"
         },
         {
+          "title": "Betty Boopová, (z)malovaná kráska (2020)",
+          "overview": "Už devadesát let svádí muže a inspiruje ženy, i když je jen kreslená... Z kreslených figurek klasického Hollywoodu 30. let patří Betty Boopová mezi ty u nás nejméně známé – rozhodně ji zastínily postavičky Walta Disneye nebo třeba Pepek námořník. Ve své době si však získávala pozornost až skandální, neboť jí byla vyčítána erotická provokativnost, zvláště když se se zaujetím převlékala. Cenzura dokonce nutila producenta, aby ji umravnil, učinil cudnější, pořídil ji více zahalující odění. Sexuální vzrušivost Betty Boopové přitom nevycházela jen z jejího vzhledu, celkového tělesného obrysu, kdy ji charakterizoval obdélníkovitý obličej s očima chráněnýma dlouhými řasami, kdy byla obléknuta do minišateček, zpod nichž vykukují podvazky, ale plynula i z celkové stylizace příběhů a dění v nich.",
+          "thumb": "https://image.tmdb.org/t/p/w500/gNgs94fLdvYPlBnTnqGLYfQEV3n.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Betty+Boopov%C3%A1%2C+%28z%29malovan%C3%A1+kr%C3%A1ska&original_title=Betty+Boop+Forever&year=2020",
+          "release_date": "2020-08-09"
+        },
+        {
           "title": "Výběrčí daní (2020)",
           "overview": "David živí svoji rodinu tím, že vybírá výpalné pro mafii. Když se ale na scénu vrátí bývalý nepřítel, octne se spolu se šéfem a parťákem Creeperem v nebezpečí.",
           "thumb": "https://image.tmdb.org/t/p/w500/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg",
@@ -30445,6 +30647,21 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Hanebn%C3%BD+n%C3%A1vrh&original_title=Expectant&year=2020",
           "release_date": "2020-04-25"
+        },
+        {
+          "title": "Za nepřátelskou linií (2020)",
+          "overview": "Druhá světová válka zuří. Spojenecké komando má osvobodit raketového vědce, který je v nacistickém zajetí a přepravit ho do Británie.",
+          "thumb": "https://image.tmdb.org/t/p/w500/oly42DbRwW7uZJBUjCtbutNJRHv.jpg",
+          "genre_ids": [
+            10752,
+            18
+          ],
+          "genres": [
+            "Válečný",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Za+nep%C5%99%C3%A1telskou+lini%C3%AD&original_title=Enemy+Lines&year=2020",
+          "release_date": "2020-04-24"
         },
         {
           "title": "Vyproštění (2020)",
@@ -34078,6 +34295,23 @@
           "release_date": "2019-09-07"
         },
         {
+          "title": "Knuckle City (2019)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/1WUrfChY5QCFzHY5wxFtMW18vK7.jpg",
+          "genre_ids": [
+            28,
+            18,
+            80
+          ],
+          "genres": [
+            "Akční",
+            "Drama",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Knuckle+City&original_title=Knuckle+City&year=2019",
+          "release_date": "2019-09-06"
+        },
+        {
           "title": "Easy Land (2019)",
           "overview": "",
           "thumb": "https://image.tmdb.org/t/p/w500/pHNg6uGY1fQsjQKbNP4mxcCnumN.jpg",
@@ -35341,6 +35575,21 @@
           "release_date": "2019-06-26"
         },
         {
+          "title": "Jíst, pít a vdát se (2019)",
+          "overview": "Billie řídí společnost, která rozdává nespotřebované věci ze svateb. Jeden pár se ale po konzultaci s ní rozejde. Bratr ženicha dává vinu Billie a donutí ji, aby mu pomohla dát dva mladé znovu dohromady. Při tom ale mezi nimi přeskočí jiskra...",
+          "thumb": "https://image.tmdb.org/t/p/w500/21YDfI1S5GPMRTJa70aHJt9Tzdc.jpg",
+          "genre_ids": [
+            10749,
+            10770
+          ],
+          "genres": [
+            "Romantický",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=J%C3%ADst%2C+p%C3%ADt+a+vd%C3%A1t+se&original_title=Eat%2C+Drink+and+Be+Married&year=2019",
+          "release_date": "2019-06-22"
+        },
+        {
           "title": "Michael Jackson, odešel příliš brzy (2019)",
           "overview": "V roce 2009 odešel náhle a předčasně zpěvák, jehož popularita překročila všechny světové hranice a také lidskou představivost. Michael Jackson se stal navždy legendou pop music a je jednou z hlavních ikon americké populární hudby. Byl nejlépe prodávaným hudebníkem. Zpěvák zemřel nečekaně a téměř brutálně - po injekci .... stejně \"brutální\" byli i jeho úspěchy, kterými ohromil celý svět ....\r (RTVS)",
           "thumb": "https://image.tmdb.org/t/p/w500/dgpDjlYj3tjRBcaO5fpAkAU0Qil.jpg",
@@ -35740,6 +35989,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Aladin&original_title=Aladdin&year=2019",
           "release_date": "2019-05-22"
+        },
+        {
+          "title": "Jedovatý ochránce (2019)",
+          "overview": "Amanda Birchová se po letech odloučení vrací za svou sestrou Lauren, aby napravila pošramocené vztahy. Ta je úspěšná ve svém zdravotnickém centru a právě otevírá nový wellness. To se jí však stane osudným a Lauren přijde o život. Amanda je odhodlána odhalit záhadu smrti své sestry a objeví složitý vražedný plán. Podezřelí jsou všichni, protože je jasné, že sestřina smrt nebyla náhoda.",
+          "thumb": "https://image.tmdb.org/t/p/w500/4xa1q03ZWiIhGncx72BMEE6FODU.jpg",
+          "genre_ids": [
+            18,
+            10770
+          ],
+          "genres": [
+            "Drama",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Jedovat%C3%BD+ochr%C3%A1nce&original_title=Deadly+Assistant&year=2019",
+          "release_date": "2019-05-17"
         },
         {
           "title": "Rocketman (2019)",
@@ -39374,6 +39638,25 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Nightingale&original_title=The+Nightingale&year=2018",
           "release_date": "2018-09-23"
+        },
+        {
+          "title": "Strange Nature (2018)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/yXFkg7S6OBkuevT54Tm2XsJjKRa.jpg",
+          "genre_ids": [
+            27,
+            14,
+            9648,
+            53
+          ],
+          "genres": [
+            "Horor",
+            "Fantasy",
+            "Mysteriózní",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Strange+Nature&original_title=Strange+Nature&year=2018",
+          "release_date": "2018-09-22"
         },
         {
           "title": "Hold the Dark (2018)",
@@ -45593,6 +45876,23 @@
           "release_date": "2017-09-23"
         },
         {
+          "title": "Maze (2017)",
+          "overview": "Inspirován skutečnými událostmi ve věhlasném vězení z vězení v roce 1983, 38 vězňů IRA z HMP, který se měl stát největším vězeňským útěkem v Evropě od druhé světové války.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bWEF3a1qErRIjmLW0xU28zAgV9D.jpg",
+          "genre_ids": [
+            18,
+            36,
+            53
+          ],
+          "genres": [
+            "Drama",
+            "Historický",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Maze&original_title=Maze&year=2017",
+          "release_date": "2017-09-22"
+        },
+        {
           "title": "Zabít Gunthera (2017)",
           "overview": "Skupina excentrických zabijáků má jedinou úlohu - zabít Gunthera (Arnold Schwarzenegger), nejlepšího nájemného vraha na světě. Tato úloha je náročnější, než předpokládali, protože Gunther se zdá být vždy o krok před nimi.",
           "thumb": "https://image.tmdb.org/t/p/w500/4xGElCeluBzEnrdl15yHTf6sfez.jpg",
@@ -47611,6 +47911,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=B%C5%AFh+V%C3%A1lky&original_title=%E8%8D%A1%E5%AF%87%E9%A3%8E%E4%BA%91&year=2017",
           "release_date": "2017-05-27"
+        },
+        {
+          "title": "Abducted in Plain Sight (2017)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+          "genre_ids": [
+            99,
+            80
+          ],
+          "genres": [
+            "Dokumentární",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Abducted+in+Plain+Sight&original_title=Abducted+in+Plain+Sight&year=2017",
+          "release_date": "2017-05-26"
         },
         {
           "title": "Černý motýl (2017)",
@@ -52997,6 +53312,21 @@
           "release_date": "2016-06-07"
         },
         {
+          "title": "Zaprášená tajemství: Vraždy pro milovníky detektivek (2016)",
+          "overview": "Jennifer Shannonová najde mrtvolu jednoho ze svých zákazníků, ale něco jí na tom přijde povědomého. Brzy si uvědomí, že jeho smrt je navlas stejná jako v knize od Agathy Christie. Pak přijde další vražda jako vystřižená z příběhu Sherlocka Holmese...",
+          "thumb": "https://image.tmdb.org/t/p/w500/9SEBCZIriFD9sbCMEN7iNDMUN9B.jpg",
+          "genre_ids": [
+            10770,
+            9648
+          ],
+          "genres": [
+            "Televizní film",
+            "Mysteriózní"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Zapr%C3%A1%C5%A1en%C3%A1+tajemstv%C3%AD%3A+Vra%C5%BEdy+pro+milovn%C3%ADky+detektivek&original_title=Garage+Sale+Mystery%3A+The+Novel+Murders&year=2016",
+          "release_date": "2016-06-05"
+        },
+        {
           "title": "Denial (2016)",
           "overview": "",
           "thumb": "https://image.tmdb.org/t/p/w500/arnl8EitfhbPO9d9GccNaIDcWhR.jpg",
@@ -55785,6 +56115,23 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Hodn%C3%BD+dinosaurus&original_title=The+Good+Dinosaur&year=2015",
           "release_date": "2015-11-14"
+        },
+        {
+          "title": "Král Vánoc (2015)",
+          "overview": "Zlý čaroděj Snerk ukradne kouzelné brnění, aby pomocí něho převzal moc v Údolí rytířů. V pohádkovém království se Vánoce ocitnou v ohrožení a jedině princezna Eiril, která má chybějící část výzbroje, je dokáže zachránit. Snerk pronásleduje Eiril, aby získal její vzácnou rukavici na výrobu sněhu. Princezna na útěku nechtěně otevře portál a ocitne se v lidském světě, kde žije její přítel Kevin. Chlapec Kevin a jeho malá sestřička Mira však právě prožívají rodinnou krizi kvůli rozhádaným rodičům. I jejich Vánoce jsou ohroženy.",
+          "thumb": "https://image.tmdb.org/t/p/w500/xQzesxrcuIMUyQ4tC9Pmxppc6nE.jpg",
+          "genre_ids": [
+            12,
+            14,
+            10751
+          ],
+          "genres": [
+            "Dobrodružný",
+            "Fantasy",
+            "Rodinný"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Kr%C3%A1l+V%C3%A1noc&original_title=Julekongen%3A+Full+rustning&year=2015",
+          "release_date": "2015-11-13"
         },
         {
           "title": "Savva - Srdce bojovníka (2015)",
@@ -61455,6 +61802,19 @@
           "release_date": "2014-11-05"
         },
         {
+          "title": "The Offseason: Kevin Durant (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/opA0SZgfYZKJuxwSVdNGqzoiFi7.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Offseason%3A+Kevin+Durant&original_title=The+Offseason%3A+Kevin+Durant&year=2014",
+          "release_date": "2014-11-04"
+        },
+        {
           "title": "Jak vycvičit draky: Úsvit dračích závodníků (2014)",
           "overview": "Hrdinové z oblíbené série Jak vycvičit draky se chystají na další ročník dračích závodů. Když se Snoplivec začne vychloubat, že pravidla závodů vymyslel právě on, nastává čas mu připomenout okolnosti vzniku této dračí disciplíny. Tehdy Škyťák na Blpu dočasně zastupoval svého otce Kliďase a dostal na starosti pořádání každoroční velké regaty. Jenže několik zatoulaných ovcí se postaralo o lavinu událostí, které vedly k historicky prvním dračím závodům. Kdo byl tedy jejich opravdovým strůjcem?",
           "thumb": "https://image.tmdb.org/t/p/w500/sgOXOQyPIjeMi1bnWu1r0CzLsZD.jpg",
@@ -62694,6 +63054,21 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Fotograf&original_title=Fotograf&year=2014",
           "release_date": "2014-09-17"
+        },
+        {
+          "title": "Viking: The Berserkers (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/cpMUWZWP2dFXJMW3iv2BzXv4CV9.jpg",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "genres": [
+            "Thriller",
+            "Horor"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Viking%3A+The+Berserkers&original_title=Viking%3A+The+Berserkers&year=2014",
+          "release_date": "2014-09-15"
         },
         {
           "title": "Pod krvavým sluncem (2014)",
@@ -66038,6 +66413,23 @@
           "release_date": "2014-02-03"
         },
         {
+          "title": "Warren (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/q7Fa0laPAHmefq3Co1HNa8bR542.jpg",
+          "genre_ids": [
+            10749,
+            35,
+            18
+          ],
+          "genres": [
+            "Romantický",
+            "Komedie",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Warren&original_title=Warren&year=2014",
+          "release_date": "2014-02-01"
+        },
+        {
           "title": "Killers (2014)",
           "overview": "Nomura (Kazuki Kitamura), sériový vrah z Tokia, který vraždí ženy a videa jejich úmrtí dává na YouTube, si všimne podobného videa zveřejněneho mužem z Jakarty jménem Bayu (Oka Antara). Plachý novinář Bayu zabil pouze v sebeobraně, ale zvláštní pocit touhy po krvi ho přinutil zveřejnit vraždu online. Nomura, který věří, že našel svou spřízněnou duši, začne trápit Bayuho přes internet a snaží se v něm naplno projevit znovu nalezené vražedné sklony, co se jeví jako pokušení, kterému počestný novinář pouze těžko odolá.",
           "thumb": "https://image.tmdb.org/t/p/w500/vkTi1Y5js8exwZ8V6mbXNEQy2Om.jpg",
@@ -67019,6 +67411,19 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Immigrant&original_title=The+Immigrant&year=2013",
           "release_date": "2013-11-27"
+        },
+        {
+          "title": "Avant l'hiver (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/neigfiJJavmgBCmIy8T18cCZd7S.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Avant+l%27hiver&original_title=Avant+l%27hiver&year=2013",
+          "release_date": "2013-11-26"
         },
         {
           "title": "Black Sabbath: Live... Gathered In Their Masses (2013)",
@@ -68779,6 +69184,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Neprofesion%C3%A1lov%C3%A9&original_title=Empire+State&year=2013",
           "release_date": "2013-09-03"
+        },
+        {
+          "title": "Ruin (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/6pfRbalmfDIeSObdJpoJ2ZKvOgq.jpg",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "genres": [
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Ruin&original_title=Ruin&year=2013",
+          "release_date": "2013-09-02"
         },
         {
           "title": "Svatyně zla (2013)",
@@ -71429,6 +71849,21 @@
           "release_date": "2013-02-16"
         },
         {
+          "title": "The Power of Few (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/s2gEURN3dQ2JmUjoFRD7m6Ox1rV.jpg",
+          "genre_ids": [
+            80,
+            18
+          ],
+          "genres": [
+            "Krimi",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Power+of+Few&original_title=The+Power+of+Few&year=2013",
+          "release_date": "2013-02-15"
+        },
+        {
           "title": "The Hospital (2013)",
           "overview": "",
           "thumb": "https://image.tmdb.org/t/p/w500/sH9y7OTF6jAmTWnRuMyHgUy3KYr.jpg",
@@ -72025,6 +72460,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Texask%C3%BD+masakr+motorovou+pilou+3D&original_title=Texas+Chainsaw+3D&year=2013",
           "release_date": "2013-01-03"
+        },
+        {
+          "title": "Louis de Funes - muž, který prolomil zvukovou bariéru (2013)",
+          "overview": "Co jste ještě nevěděli o legendárním herci... O nejpopulárnějším francouzském komikovi toho bylo napsáno, řečeno i natočeno mnoho. Člověk by řekl, že každý nový dokument bude jen opakováním předchozích. Přesto nás tvůrci dnešního portrétu překvapí dalšími zajímavostmi ze života a díla Louise de Funèse, který byl a je nejen pro české fanoušky především legendárním četníkem.",
+          "thumb": "https://image.tmdb.org/t/p/w500/uGpWIc95qvA7fca9pJkQnfHv5Qa.jpg",
+          "genre_ids": [
+            99,
+            10770
+          ],
+          "genres": [
+            "Dokumentární",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Louis+de+Funes+-+mu%C5%BE%2C+kter%C3%BD+prolomil+zvukovou+bari%C3%A9ru&original_title=Louis+de+Fun%C3%A8s%2C+l%27homme+qui+a+pass%C3%A9+le+mur+du+son&year=2013",
+          "release_date": "2013-01-01"
         },
         {
           "title": "Bomba (2013)",
@@ -74716,6 +75166,19 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=360&original_title=360&year=2012",
           "release_date": "2012-07-25"
+        },
+        {
+          "title": "Frank (2012)",
+          "overview": "",
+          "thumb": "",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Frank&original_title=Frank&year=2012",
+          "release_date": "2012-07-22"
         },
         {
           "title": "Vlčí děti (2012)",
@@ -78092,6 +78555,19 @@
           "release_date": "2011-10-31"
         },
         {
+          "title": "October Baby (2011)",
+          "overview": "Hlavní hrdinka, devatenáctiletá Hannah, se potýká se zdravotními problémy, o kterých lékaři tvrdí, že jsou způsobeny jejím komplikovaným příchodem na svět. Její rodiče jsou nuceni říci své dceři pravdu. Byla adoptována poté, co přežila umělý potrat. Šokovaná tím, že celý její život byla lež, zraněná a zmatená, se Hannah přidá ke skupině svých přátel, kteří se vydávají na cestu napříč Spojenými státy. Možná se pokusí vyhledat svou biologickou matku a možná znovu najde naději.(kikin01)",
+          "thumb": "https://image.tmdb.org/t/p/w500/dZWU5Hn4lkhid3MqVMCEPk9z9QI.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=October+Baby&original_title=October+Baby&year=2011",
+          "release_date": "2011-10-30"
+        },
+        {
           "title": "Hodná a zlá čarodějka (2011)",
           "overview": "Dobrá čarodějka Catherine Bell vede po svatbě s policistou Chrisem Potterem spokojený život. Když se však jednoho dne u jejich dveří objeví sestřenice Sarah Power, začne se idylka pomalu vytrácet...",
           "thumb": "https://image.tmdb.org/t/p/w500/ywsP21sGXXzui0gk1sVMAZ751Sh.jpg",
@@ -81438,6 +81914,19 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Jackass+3.5&original_title=Jackass+3.5&year=2011",
           "release_date": "2011-04-01"
+        },
+        {
+          "title": "Pěst proti pěsti (2011)",
+          "overview": "Čínský mladík Chan Tin-Cheuk byl v Anglii na zkušené a nyní se vrací zpět domů, do školy bojového umění Cai Li Fo. Společně s ním se tam vydává i jeho japonský kamarád Takeda Shosa, který se chce tento bojový styl naučit. Po jejich příjezdu však do školy brzy přichází zástupci Panamerické společnosti, kteří ji chtějí převzít pod sebe a kteří mají navíc souhlas Chan Wai-Yipa, jenž byl ve škole mistrem. Nakonec se všichni domluví, že uspořádají souboj tří lidi ze školy proti třem lidem z Panamerické společnosti a vítěz rozhodne, zda škola bude převzata či nikoliv. Začíná jak tvrdá příprava na tento souboj, tak hledání třetího bojovníka.",
+          "thumb": "https://image.tmdb.org/t/p/w500/pyghwa6ifS7Y1fxg2UjV0U2T06Z.jpg",
+          "genre_ids": [
+            28
+          ],
+          "genres": [
+            "Akční"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=P%C4%9Bst+proti+p%C4%9Bsti&original_title=%E8%94%A1%E6%9D%8E%E4%BD%9B&year=2011",
+          "release_date": "2011-03-31"
         },
         {
           "title": "Zpověď zabijáka (2011)",
@@ -87635,6 +88124,23 @@
           "release_date": "2010-01-13"
         },
         {
+          "title": "Dulha Mil Gaya (2010)",
+          "overview": "Playboy Donsai má po otcově smrti zdědit obrovský majetek. Má to ale háček, podle závěti se musí oženit s vesnickou dívkou, dcerou otcova dávného přítele, kterou nikdy neviděl. Donsai se do manželství nehrne, ale není zbytí. Se svým právníkem vymyslí lest. Samarpreet si sice vezme, ale po svatbě ji okamžitě opustí, vrátí se do města a začne znovu vést nevázaný život. Mladá nevěsta dlouho čeká na jeho návrat, než pochopí, že ji manžel zradil. Z rodné vesnice se pak vydá na dalekou cestu, aby se ho pokusila získat zpátky.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bDhmsg4yn6kQOiLJmjLEm3wg3nX.jpg",
+          "genre_ids": [
+            35,
+            18,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dulha+Mil+Gaya&original_title=%E0%A4%A6%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE+%E0%A4%AE%E0%A4%BF%E0%A4%B2+%E0%A4%97%E0%A4%AF%E0%A4%BE&year=2010",
+          "release_date": "2010-01-08"
+        },
+        {
           "title": "Přestupný rok (2010)",
           "overview": "Je přestupný rok a 29. února se blíží irská tradice, při které muž musí říct ano, pokud je požádán o sňatek. Anna se tedy po čtyřech letech vztahu rozhodne jet do Dublinu a tam bez předchozí domluvy požádat svého přítele Jeremyho o ruku. Ovšem počasí jí nepřeje, a tak je její plán v ohrožení.",
           "thumb": "https://image.tmdb.org/t/p/w500/i86hMi5iEF3WnYLCaGHdT5FPdYg.jpg",
@@ -88044,6 +88550,19 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Trhliny&original_title=Cracks&year=2009",
           "release_date": "2009-12-04"
+        },
+        {
+          "title": "George Michael: Live in London (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/tTyfHtiEEIkZ2FUf0tk9sqUywiM.jpg",
+          "genre_ids": [
+            10402
+          ],
+          "genres": [
+            "Hudební"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=George+Michael%3A+Live+in+London&original_title=George+Michael%3A+Live+in+London&year=2009",
+          "release_date": "2009-12-03"
         },
         {
           "title": "Nine (2009)",
@@ -90578,6 +91097,23 @@
           "release_date": "2009-07-07"
         },
         {
+          "title": "MW (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/aIGHdgF0MyBxQYjhVuizmk9Ostp.jpg",
+          "genre_ids": [
+            18,
+            878,
+            53
+          ],
+          "genres": [
+            "Drama",
+            "Vědeckofantastický",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=MW&original_title=MW&year=2009",
+          "release_date": "2009-07-03"
+        },
+        {
           "title": "Hledá se Jackie Chan (2009)",
           "overview": "Šestnáctiletý Zhang Yi-shan nemá školu příliš v oblibě, protože je pro ostatní terčem posměchu. Jeho jediným snem je setkat se s Jackie Chanem a učit se od něj kung-fu. Kdyby se mu to totiž podařilo, nikdo by se mu už ve třídě nesmál. Jenže setkat se s mistrem není žádná hračka. Zhang se náhodou dozví, že jeho idol natáčí v Pekingu další film a hned se tam vydá. Ti dva se skutečně potkají a Jackie dokonce dá chlapci první lekci, jenže úplně jinou, než čekal...",
           "thumb": "https://image.tmdb.org/t/p/w500/AtiLigiYP5E0tNuYOT8It1pFH2p.jpg",
@@ -91012,6 +91548,19 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=V+srdci+bou%C5%99e%3A+Churchill+ve+v%C3%A1lce&original_title=Into+the+Storm&year=2009",
           "release_date": "2009-05-31"
+        },
+        {
+          "title": "The War Boys (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/i57UvoI66TU8kWCrxViusgfLoIO.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+War+Boys&original_title=The+War+Boys&year=2009",
+          "release_date": "2009-05-30"
         },
         {
           "title": "Kšeftáři (2009)",
@@ -102416,6 +102965,23 @@
           "release_date": "2007-05-18"
         },
         {
+          "title": "Přepadení v poušti (2007)",
+          "overview": "Aniž by věděl jak a proč, ocitá se Eddie sám uprostřed Mohavské pouště v jakési podivné hře, kterou nikdy nechtěl hrát. Jen pomocí vysílačky je ve spojení s člověkem, který ho sem dostal. Představil se jako Jimmy, ale neřekl, o co mu jde, proč si vybral právě Eddieho, ani jestli ho zabije, nebo nechá žít. Jedno je ale jasné, chce, aby Eddie trpěl a sáhl si až na dno svých sil a svého černého svědomí. Aby chtěl raději zemřít, než dál snášet Jimmyho krutou a zlomyslnou hru…",
+          "thumb": "https://image.tmdb.org/t/p/w500/3P5JdJBHAZRDtksicmGYZAnQxkK.jpg",
+          "genre_ids": [
+            28,
+            18,
+            53
+          ],
+          "genres": [
+            "Akční",
+            "Drama",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=P%C5%99epaden%C3%AD+v+pou%C5%A1ti&original_title=Bone+Dry&year=2007",
+          "release_date": "2007-05-17"
+        },
+        {
           "title": "Shrek Třetí (2007)",
           "overview": "Za normálních okolností by krásní, mladí a zelení manželé Shrekovi po odstranění zákeřné Kmotřičky víly a jejího nemožného syna Krasoně ve druhém pokračování animované komedie Shrek žili nerušeně a hlavně šťastně až do smrti. Vzhledem k tomu, že se stali protagonisty nejúspěšnějšího animovaného filmu všech dob, nemají na pohodu nárok. Dobrodružství, která si pro ně kreativní scenáristé vymysleli tentokrát, jsou ještě vypečenější, než ta, která oba zlobříci prožili doposud.",
           "thumb": "https://image.tmdb.org/t/p/w500/jXOZsBydejtH1zvIw4UAliDGthi.jpg",
@@ -103604,6 +104170,25 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Taxi+4&original_title=Taxi+4&year=2007",
           "release_date": "2007-02-10"
+        },
+        {
+          "title": "Deník zabijáka (2007)",
+          "overview": "Frank Falenczyk má velmi rád svojí práci.  Je spokojený, protože může pracovat pro svojí rodinu polských mafiánů v Buffalu, pod vedením svého strýčka Romana. Náplní jeho práce je vydírání a zabíjení lidí, ohrožující obchodní zájmy rodiny. Jediným jeho problémem je alkohol. Kvůli němu si neplní sovje \"povinnosti\" a pohár trpělivosti přeteče, když pod vlivem alkoholu zaspí zabití šéfa irské konkurenční skupiny. Rodinou je odeslaný...",
+          "thumb": "https://image.tmdb.org/t/p/w500/4C5VQVdE2YRBPhpZLnExk1XUzDZ.jpg",
+          "genre_ids": [
+            35,
+            80,
+            53,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Krimi",
+            "Thriller",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Den%C3%ADk+zabij%C3%A1ka&original_title=You+Kill+Me&year=2007",
+          "release_date": "2007-02-09"
         },
         {
           "title": "Darling (2007)",
@@ -105778,6 +106363,19 @@
           "release_date": "2006-09-13"
         },
         {
+          "title": "The Wait (2006)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/vEpUX40zSH6RBzJiyOyMI8DWE44.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Wait&original_title=The+Wait&year=2006",
+          "release_date": "2006-09-12"
+        },
+        {
           "title": "Vášeň v tanci (2006)",
           "overview": "Americké biografické drama vypráví o legendárním králi salsy Hectoru Lavoeovi z Portorika, který si v USA získal miliony obdivovatelů. Vzestup ke slávě však nepřinesl štěstí jemu ani jeho ženě Puchi. Americké biografické drama vypráví o legendárním králi salsy Hectoru Lavoeovi, který se z Portorika přistěhoval do New Yorku, a jehož hlas si získal miliony obdivovatelů. Raketový vzestup ke slávě však probudil jeho vnitřní démony, z nichž se zrodila závislost na drogách i na alkoholu, a jeho milující žena Puchi kvůli tomu zažila spoustu bolestných chvil. V hlavních rolích filmu, který natočil Leon Ichaso, hrají Marc Anthony a Jennifer Lopezová.",
           "thumb": "https://image.tmdb.org/t/p/w500/sm4E66pPhJTP8fAdZKOMRDz4BSR.jpg",
@@ -107245,6 +107843,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Rychle+a+zb%C4%9Bsile%3A+Tokijsk%C3%A1+j%C3%ADzda&original_title=The+Fast+and+the+Furious%3A+Tokyo+Drift&year=2006",
           "release_date": "2006-06-03"
+        },
+        {
+          "title": "Žhavé nápady (2006)",
+          "overview": "Pro univerzitní studenty se svět skládá ze sexu, drog a nadupaných večírků. Svět Bickforda Shmecklera je plný filozofických úvah, hodnotné literatury a intelektuálních myšlenek. Středem vesmíru je pro něj jeho notes vlastních velkolepých nápadů. Ten mu z legrace ukradne jeho spolužačka, sladká blondýnka Sarah. Po přečtení se do něj bezhlavě zamiluje. Bickford nestojí o svůdné sexy krásky, chce jen zpět svou knihu. A tak musí s kámošema vymyslet nejlepší plán svého života...",
+          "thumb": "https://image.tmdb.org/t/p/w500/bDMVu4QS9peGUgvingjfnlBCApQ.jpg",
+          "genre_ids": [
+            35,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C5%BDhav%C3%A9+n%C3%A1pady&original_title=Bickford+Shmeckler%27s+Cool+Ideas&year=2006",
+          "release_date": "2006-06-02"
         },
         {
           "title": "Rozchod! (2006)",
@@ -114226,6 +114839,21 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Na+dotek&original_title=Closer&year=2004",
           "release_date": "2004-12-03"
+        },
+        {
+          "title": "Činy a sláva (2004)",
+          "overview": "Rodina Benjamina Steeda se nedávno přestěhovala z pohodlí domova ve Vermontu do severní části státu New York a hodlá se začlenit do ustálených poměrů ve městě Palmyra. Ve snaze zapadnout do místního společenství zjistí, že pomoc, kterou si najali na vyčištění půdy k osídlení, se stává důvodem jejich vlastní náboženské rozepře – rozepře, která hrozí roztrhnout celou rodinu vedví. Dva bratři Steedové soupeří o přízeň dcery bohatého kupce – a oba dva se tak ocitají na odlišných stranách víry. Přestože se rodina snaží spor zahladit, brzo se ocitá postavena tváří v tvář hlubším problémům ohledně vlastní příslušnosti a víry v pravdu.",
+          "thumb": "https://image.tmdb.org/t/p/w500/b5Y3hNp7jY2rVea9EP0iCToNMlO.jpg",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "genres": [
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C4%8Ciny+a+sl%C3%A1va&original_title=The+Work+and+the+Glory&year=2004",
+          "release_date": "2004-11-24"
         },
         {
           "title": "Vánoce naruby (2004)",
@@ -125599,6 +126227,23 @@
           "genres": [],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Rollerball&original_title=Rollerball&year=2002",
           "release_date": "2002-02-08"
+        },
+        {
+          "title": "Čínská odysea (2002)",
+          "overview": "Císař touží po svobodném životě tuláka a snaží se se svou sestrou, princeznou, uprchnout z královského paláce. Královské stráže ho chytí a vrátí rozzlobené matce, ale princezně, převlečené za muže, se podaří uprchnout. Mezitím se král Tyran vrátil do svého rodného města, kde je všeobecně opovrhován pro své šikanózní způsoby, aby vedl restauraci se svou chlapeckou sestrou Fénix. Mají spolu velmi blízký vztah. Král Bully se totiž mylně domnívá, že dokáže číst myšlenky své sestry. Když do města přijede princezna, král Bully zjistí, že ho přitahuje, ale v domnění, že je to muž, se rozhodne, že jeho přitažlivost je jakýmsi druhem empatie s Phoenix.",
+          "thumb": "https://image.tmdb.org/t/p/w500/jZdT63XWtBBCmPIzLyJd1YATdxn.jpg",
+          "genre_ids": [
+            28,
+            35,
+            10749
+          ],
+          "genres": [
+            "Akční",
+            "Komedie",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C4%8C%C3%ADnsk%C3%A1+odysea&original_title=%E5%A4%A9%E4%B8%8B%E7%84%A1%E9%9B%99&year=2002",
+          "release_date": "2002-02-06"
         },
         {
           "title": "Nebe (2002)",
@@ -138213,6 +138858,22 @@
           "release_date": "2023-08-13"
         },
         {
+          "title": "Muž, který stál v cestě (2023)",
+          "overview": "Strhující příběh lékaře a politika Františka Kriegla zachycuje dramatické události 21. srpna 1968, kdy byl v noci společně s čelními představiteli KSČ zatčen a unesen do Moskvy. Byl jediným československým politikem, který se v zajetí i pod hrozbou likvidace postavil Leonidu Iljiči Brežněvovi a nepodepsal Moskevský protokol, dokument, jenž znamenal souhlas s okupací Československa.",
+          "thumb": "https://image.tmdb.org/t/p/w500/v3sP0af3ijOvOu6Px7C7dchXM8L.jpg",
+          "genre_ids": [
+            18,
+            36
+          ],
+          "genres": [
+            "Drama",
+            "Historický"
+          ],
+          "origin": "CZ",
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Mu%C5%BE%2C+kter%C3%BD+st%C3%A1l+v+cest%C4%9B&original_title=Mu%C5%BE%2C+kter%C3%BD+st%C3%A1l+v+cest%C4%9B&year=2023",
+          "release_date": "2023-05-25"
+        },
+        {
           "title": "Cool Girl! (2023)",
           "overview": "Tři mladé hrdinky, tři velké sny a jedna soutěž, která může všechny tyhle sny splnit. Klavíristka Anet, atletka Marta a tanečnice Tina stojí na startovní čáře dospělých životů. Mají své touhy a naděje, ale do jejich příběhů se také promítají rodinné problémy či milostné trable. Každá z trojice dívek se přihlásí do soutěže Cool Girl s nadějí, že vítězství by mohlo pomoci nasměrovat jejich život správným směrem. Postupně však zjišťují, že k tomu, aby si člověk uvědomil svou hodnotu, je třeba především věřit v sebe sama.",
           "thumb": "https://image.tmdb.org/t/p/w500/4fIQrD2jwjoHYHfriK8GsbU1w9G.jpg",
@@ -149099,7 +149760,678 @@
           "release_date": "2000-02-03"
         }
       ],
+      "trending_movies": [
+        {
+          "title": "French Lover (2025)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/1kyWW0mLypxckG4CRBJu4gw9XxD.jpg",
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=French+Lover&original_title=French+Lover&year=2025",
+          "release_date": "2025-09-26",
+          "genre_ids": [
+            10749,
+            35
+          ],
+          "genres": []
+        }
+      ],
       "new": [
+        {
+          "title": "French Lover (2025)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/1kyWW0mLypxckG4CRBJu4gw9XxD.jpg",
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=French+Lover&original_title=French+Lover&year=2025",
+          "release_date": "2025-09-26",
+          "genre_ids": [
+            10749,
+            35
+          ],
+          "genres": []
+        },
+        {
+          "title": "Dead of Winter (2025)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+          "genre_ids": [
+            53,
+            28
+          ],
+          "genres": [
+            "Thriller",
+            "Akční"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dead+of+Winter&original_title=Dead+of+Winter&year=2025",
+          "release_date": "2025-09-23"
+        },
+        {
+          "title": "V kuchyni (2024)",
+          "overview": "Během páteční obědové špičky došlo v restauraci The Grill, turistické pasti v New Yorku, která obsluhuje tisíce zákazníků, ke krádeži peněz z pokladny a všichni zaměstnanci jsou vyslýcháni. Většina z nich jsou nelegální imigranti, kteří se snaží udržet si svou práci, jediné právoplatné místo na světě, zatímco připravují nekonečné množství jídel a snaží se stíhat neustálý tok objednávek. Jedním z kuchařů je Pedro, mladý Mexičan, který hledá v životě víc, než nabízí jeho práce. Je to snílek a potížista a je zamilovaný do Julie, americké servírky, která nemůže navázat vztah s cizincem bez dokladů. Rashid, majitel restaurace, slíbí Pedrovi pomoc s doklady. Když je však Pedro obviněn z krádeže a navíc zjistí, že Julia podstoupila potrat, ztratí hlavu a dopustí se činu, který jednou provždy zastaví provoz v kuchyni.",
+          "thumb": "https://image.tmdb.org/t/p/w500/4Omp9c2Uvb5hy43JTsVGe55oOrU.jpg",
+          "genre_ids": [
+            18,
+            35
+          ],
+          "genres": [
+            "Drama",
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=V+kuchyni&original_title=La+Cocina&year=2024",
+          "release_date": "2024-10-25"
+        },
+        {
+          "title": "Finále: Útok na Wembley (2024)",
+          "overview": "Anglie má konečně šanci na velké fotbalové zlato. Šest tisíc fanoušků bez vstupenek ale před finále Eura vtrhne na stadion ve Wembley a nechá za sebou spoušť.",
+          "thumb": "https://image.tmdb.org/t/p/w500/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Fin%C3%A1le%3A+%C3%9Atok+na+Wembley&original_title=The+Final%3A+Attack+on+Wembley&year=2024",
+          "release_date": "2024-05-07"
+        },
+        {
+          "title": "Sladký východ (2023)",
+          "overview": "Studentka střední školy Lillian za dramatických okolností opouští školní výlet, a zdá se, že v klubu, odkud utíká, zanechává i svoji identitu. Od tohoto okamžiku se stává kýmkoliv, koho v ní vidí lidé, které na svém bezcílném putování potkává.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bWUL6hvWBElm4jrpqag8vDXELcg.jpg",
+          "genre_ids": [
+            35,
+            18,
+            14
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Fantasy"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Sladk%C3%BD+v%C3%BDchod&original_title=The+Sweet+East&year=2023",
+          "release_date": "2023-12-01"
+        },
+        {
+          "title": "1920: Horrors of the Heart (2023)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/iTe8eTiHocRLjMnx6ArBovQRqbe.jpg",
+          "genre_ids": [
+            27,
+            18
+          ],
+          "genres": [
+            "Horor",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=1920%3A+Horrors+of+the+Heart&original_title=1920%3A+Horrors+of+the+Heart&year=2023",
+          "release_date": "2023-06-23"
+        },
+        {
+          "title": "Muž, který stál v cestě (2023)",
+          "overview": "Strhující příběh lékaře a politika Františka Kriegla zachycuje dramatické události 21. srpna 1968, kdy byl v noci společně s čelními představiteli KSČ zatčen a unesen do Moskvy. Byl jediným československým politikem, který se v zajetí i pod hrozbou likvidace postavil Leonidu Iljiči Brežněvovi a nepodepsal Moskevský protokol, dokument, jenž znamenal souhlas s okupací Československa.",
+          "thumb": "https://image.tmdb.org/t/p/w500/v3sP0af3ijOvOu6Px7C7dchXM8L.jpg",
+          "genre_ids": [
+            18,
+            36
+          ],
+          "genres": [
+            "Drama",
+            "Historický"
+          ],
+          "origin": "CZ",
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Mu%C5%BE%2C+kter%C3%BD+st%C3%A1l+v+cest%C4%9B&original_title=Mu%C5%BE%2C+kter%C3%BD+st%C3%A1l+v+cest%C4%9B&year=2023",
+          "release_date": "2023-05-25"
+        },
+        {
+          "title": "Organ Trail (2023)",
+          "overview": "Mladá Abigale Archerová zůstává bez přátel a sama v kruté zimě v Montaně v 70. letech 19. století - bojuje o přežití a o získání svého jediného pozemského majetku, rodinného koně, od bandy krvežíznivých banditů.",
+          "thumb": "https://image.tmdb.org/t/p/w500/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
+          "genre_ids": [
+            27,
+            37,
+            18
+          ],
+          "genres": [
+            "Horor",
+            "Western",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Organ+Trail&original_title=Organ+Trail&year=2023",
+          "release_date": "2023-04-14"
+        },
+        {
+          "title": "The Audition (2022)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/wWZvsydfTrlkAFOxYjfA0cOerKZ.jpg",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "genres": [
+            "Thriller",
+            "Horor"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Audition&original_title=The+Audition&year=2022",
+          "release_date": "2022-10-24"
+        },
+        {
+          "title": "Ztracený král (2022)",
+          "overview": "V roce 2012 se pod parkovištěm v Leicesteru našly ostatky krále Richarda III., které byly více než 500 let považovány za ztracené. Za tímto úspěchem stojí amatérská historička Philippa Langleyová, jejíž výzkum se setkal s nepochopením přátel a příbuzných i s jízlivou skepsí odborníků a akademiků. Film vypráví inspirativní příběh ženy, která se nenechala přehlížet a podceňovat. Postavila se nejvýznamnějším anglickým historikům, které nakonec přiměla přehodnotit názor na jednu z nejkontroverznějších osobností anglických dějin.",
+          "thumb": "https://image.tmdb.org/t/p/w500/f3kOebicMlDMrfe0kTJ2YxqnFw0.jpg",
+          "genre_ids": [
+            35,
+            18,
+            36
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Historický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Ztracen%C3%BD+kr%C3%A1l&original_title=The+Lost+King&year=2022",
+          "release_date": "2022-10-07"
+        },
+        {
+          "title": "13: Muzikál (2022)",
+          "overview": "Chytrý kluk se po rozvodu rodičů přestěhuje z New Yorku do Indiany, kde se rozhodne uspořádat tu nejlepší oslavu obřadu bar micva v dějinách.",
+          "thumb": "https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg",
+          "genre_ids": [
+            10751,
+            18,
+            35
+          ],
+          "genres": [
+            "Rodinný",
+            "Drama",
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=13%3A+Muzik%C3%A1l&original_title=13%3A+The+Musical&year=2022",
+          "release_date": "2022-08-12"
+        },
+        {
+          "title": "Den vlajky (2021)",
+          "overview": "Otec žije dvojí život jako padělatel, bankovní lupič a podvodník, aby zabezpečil svou dceru.\r Otec Jennifer Vogelové John byl výjimečný člověk. Jako dítě Jennifer obdivovala jeho neutuchající energii a schopnost prožívat život jako jedno velké dobrodružství. Naučil ji hodně o lásce a radosti, ale byl také nejznámějším padělatelem v dějinách Spojených států. Film je intimním portrétem mladé ženy, která se snaží vyrovnat s nezlomným poutem mezi otcem a dcerou a povznést se nad trosky své minulosti.",
+          "thumb": "https://image.tmdb.org/t/p/w500/gwEJmzgoPdAlX4OODCP2QkMMhca.jpg",
+          "genre_ids": [
+            18,
+            53,
+            80
+          ],
+          "genres": [
+            "Drama",
+            "Thriller",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Den+vlajky&original_title=Flag+Day&year=2021",
+          "release_date": "2021-08-20"
+        },
+        {
+          "title": "Unicorn (2021)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/i6cugcc0jIfRSlvEAxx2M866p8e.jpg",
+          "genre_ids": [
+            18,
+            14
+          ],
+          "genres": [
+            "Drama",
+            "Fantasy"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Unicorn&original_title=Unicorn&year=2021",
+          "release_date": "2021-04-23"
+        },
+        {
+          "title": "Betty Boopová, (z)malovaná kráska (2020)",
+          "overview": "Už devadesát let svádí muže a inspiruje ženy, i když je jen kreslená... Z kreslených figurek klasického Hollywoodu 30. let patří Betty Boopová mezi ty u nás nejméně známé – rozhodně ji zastínily postavičky Walta Disneye nebo třeba Pepek námořník. Ve své době si však získávala pozornost až skandální, neboť jí byla vyčítána erotická provokativnost, zvláště když se se zaujetím převlékala. Cenzura dokonce nutila producenta, aby ji umravnil, učinil cudnější, pořídil ji více zahalující odění. Sexuální vzrušivost Betty Boopové přitom nevycházela jen z jejího vzhledu, celkového tělesného obrysu, kdy ji charakterizoval obdélníkovitý obličej s očima chráněnýma dlouhými řasami, kdy byla obléknuta do minišateček, zpod nichž vykukují podvazky, ale plynula i z celkové stylizace příběhů a dění v nich.",
+          "thumb": "https://image.tmdb.org/t/p/w500/gNgs94fLdvYPlBnTnqGLYfQEV3n.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Betty+Boopov%C3%A1%2C+%28z%29malovan%C3%A1+kr%C3%A1ska&original_title=Betty+Boop+Forever&year=2020",
+          "release_date": "2020-08-09"
+        },
+        {
+          "title": "Za nepřátelskou linií (2020)",
+          "overview": "Druhá světová válka zuří. Spojenecké komando má osvobodit raketového vědce, který je v nacistickém zajetí a přepravit ho do Británie.",
+          "thumb": "https://image.tmdb.org/t/p/w500/oly42DbRwW7uZJBUjCtbutNJRHv.jpg",
+          "genre_ids": [
+            10752,
+            18
+          ],
+          "genres": [
+            "Válečný",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Za+nep%C5%99%C3%A1telskou+lini%C3%AD&original_title=Enemy+Lines&year=2020",
+          "release_date": "2020-04-24"
+        },
+        {
+          "title": "Knuckle City (2019)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/1WUrfChY5QCFzHY5wxFtMW18vK7.jpg",
+          "genre_ids": [
+            28,
+            18,
+            80
+          ],
+          "genres": [
+            "Akční",
+            "Drama",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Knuckle+City&original_title=Knuckle+City&year=2019",
+          "release_date": "2019-09-06"
+        },
+        {
+          "title": "Jíst, pít a vdát se (2019)",
+          "overview": "Billie řídí společnost, která rozdává nespotřebované věci ze svateb. Jeden pár se ale po konzultaci s ní rozejde. Bratr ženicha dává vinu Billie a donutí ji, aby mu pomohla dát dva mladé znovu dohromady. Při tom ale mezi nimi přeskočí jiskra...",
+          "thumb": "https://image.tmdb.org/t/p/w500/21YDfI1S5GPMRTJa70aHJt9Tzdc.jpg",
+          "genre_ids": [
+            10749,
+            10770
+          ],
+          "genres": [
+            "Romantický",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=J%C3%ADst%2C+p%C3%ADt+a+vd%C3%A1t+se&original_title=Eat%2C+Drink+and+Be+Married&year=2019",
+          "release_date": "2019-06-22"
+        },
+        {
+          "title": "Jedovatý ochránce (2019)",
+          "overview": "Amanda Birchová se po letech odloučení vrací za svou sestrou Lauren, aby napravila pošramocené vztahy. Ta je úspěšná ve svém zdravotnickém centru a právě otevírá nový wellness. To se jí však stane osudným a Lauren přijde o život. Amanda je odhodlána odhalit záhadu smrti své sestry a objeví složitý vražedný plán. Podezřelí jsou všichni, protože je jasné, že sestřina smrt nebyla náhoda.",
+          "thumb": "https://image.tmdb.org/t/p/w500/4xa1q03ZWiIhGncx72BMEE6FODU.jpg",
+          "genre_ids": [
+            18,
+            10770
+          ],
+          "genres": [
+            "Drama",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Jedovat%C3%BD+ochr%C3%A1nce&original_title=Deadly+Assistant&year=2019",
+          "release_date": "2019-05-17"
+        },
+        {
+          "title": "Strange Nature (2018)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/yXFkg7S6OBkuevT54Tm2XsJjKRa.jpg",
+          "genre_ids": [
+            27,
+            14,
+            9648,
+            53
+          ],
+          "genres": [
+            "Horor",
+            "Fantasy",
+            "Mysteriózní",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Strange+Nature&original_title=Strange+Nature&year=2018",
+          "release_date": "2018-09-22"
+        },
+        {
+          "title": "Maze (2017)",
+          "overview": "Inspirován skutečnými událostmi ve věhlasném vězení z vězení v roce 1983, 38 vězňů IRA z HMP, který se měl stát největším vězeňským útěkem v Evropě od druhé světové války.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bWEF3a1qErRIjmLW0xU28zAgV9D.jpg",
+          "genre_ids": [
+            18,
+            36,
+            53
+          ],
+          "genres": [
+            "Drama",
+            "Historický",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Maze&original_title=Maze&year=2017",
+          "release_date": "2017-09-22"
+        },
+        {
+          "title": "Abducted in Plain Sight (2017)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+          "genre_ids": [
+            99,
+            80
+          ],
+          "genres": [
+            "Dokumentární",
+            "Krimi"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Abducted+in+Plain+Sight&original_title=Abducted+in+Plain+Sight&year=2017",
+          "release_date": "2017-05-26"
+        },
+        {
+          "title": "Zaprášená tajemství: Vraždy pro milovníky detektivek (2016)",
+          "overview": "Jennifer Shannonová najde mrtvolu jednoho ze svých zákazníků, ale něco jí na tom přijde povědomého. Brzy si uvědomí, že jeho smrt je navlas stejná jako v knize od Agathy Christie. Pak přijde další vražda jako vystřižená z příběhu Sherlocka Holmese...",
+          "thumb": "https://image.tmdb.org/t/p/w500/9SEBCZIriFD9sbCMEN7iNDMUN9B.jpg",
+          "genre_ids": [
+            10770,
+            9648
+          ],
+          "genres": [
+            "Televizní film",
+            "Mysteriózní"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Zapr%C3%A1%C5%A1en%C3%A1+tajemstv%C3%AD%3A+Vra%C5%BEdy+pro+milovn%C3%ADky+detektivek&original_title=Garage+Sale+Mystery%3A+The+Novel+Murders&year=2016",
+          "release_date": "2016-06-05"
+        },
+        {
+          "title": "Král Vánoc (2015)",
+          "overview": "Zlý čaroděj Snerk ukradne kouzelné brnění, aby pomocí něho převzal moc v Údolí rytířů. V pohádkovém království se Vánoce ocitnou v ohrožení a jedině princezna Eiril, která má chybějící část výzbroje, je dokáže zachránit. Snerk pronásleduje Eiril, aby získal její vzácnou rukavici na výrobu sněhu. Princezna na útěku nechtěně otevře portál a ocitne se v lidském světě, kde žije její přítel Kevin. Chlapec Kevin a jeho malá sestřička Mira však právě prožívají rodinnou krizi kvůli rozhádaným rodičům. I jejich Vánoce jsou ohroženy.",
+          "thumb": "https://image.tmdb.org/t/p/w500/xQzesxrcuIMUyQ4tC9Pmxppc6nE.jpg",
+          "genre_ids": [
+            12,
+            14,
+            10751
+          ],
+          "genres": [
+            "Dobrodružný",
+            "Fantasy",
+            "Rodinný"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Kr%C3%A1l+V%C3%A1noc&original_title=Julekongen%3A+Full+rustning&year=2015",
+          "release_date": "2015-11-13"
+        },
+        {
+          "title": "The Offseason: Kevin Durant (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/opA0SZgfYZKJuxwSVdNGqzoiFi7.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Offseason%3A+Kevin+Durant&original_title=The+Offseason%3A+Kevin+Durant&year=2014",
+          "release_date": "2014-11-04"
+        },
+        {
+          "title": "Viking: The Berserkers (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/cpMUWZWP2dFXJMW3iv2BzXv4CV9.jpg",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "genres": [
+            "Thriller",
+            "Horor"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Viking%3A+The+Berserkers&original_title=Viking%3A+The+Berserkers&year=2014",
+          "release_date": "2014-09-15"
+        },
+        {
+          "title": "Warren (2014)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/q7Fa0laPAHmefq3Co1HNa8bR542.jpg",
+          "genre_ids": [
+            10749,
+            35,
+            18
+          ],
+          "genres": [
+            "Romantický",
+            "Komedie",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Warren&original_title=Warren&year=2014",
+          "release_date": "2014-02-01"
+        },
+        {
+          "title": "Avant l'hiver (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/neigfiJJavmgBCmIy8T18cCZd7S.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Avant+l%27hiver&original_title=Avant+l%27hiver&year=2013",
+          "release_date": "2013-11-26"
+        },
+        {
+          "title": "Ruin (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/6pfRbalmfDIeSObdJpoJ2ZKvOgq.jpg",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "genres": [
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Ruin&original_title=Ruin&year=2013",
+          "release_date": "2013-09-02"
+        },
+        {
+          "title": "The Power of Few (2013)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/s2gEURN3dQ2JmUjoFRD7m6Ox1rV.jpg",
+          "genre_ids": [
+            80,
+            18
+          ],
+          "genres": [
+            "Krimi",
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Power+of+Few&original_title=The+Power+of+Few&year=2013",
+          "release_date": "2013-02-15"
+        },
+        {
+          "title": "Louis de Funes - muž, který prolomil zvukovou bariéru (2013)",
+          "overview": "Co jste ještě nevěděli o legendárním herci... O nejpopulárnějším francouzském komikovi toho bylo napsáno, řečeno i natočeno mnoho. Člověk by řekl, že každý nový dokument bude jen opakováním předchozích. Přesto nás tvůrci dnešního portrétu překvapí dalšími zajímavostmi ze života a díla Louise de Funèse, který byl a je nejen pro české fanoušky především legendárním četníkem.",
+          "thumb": "https://image.tmdb.org/t/p/w500/uGpWIc95qvA7fca9pJkQnfHv5Qa.jpg",
+          "genre_ids": [
+            99,
+            10770
+          ],
+          "genres": [
+            "Dokumentární",
+            "Televizní film"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Louis+de+Funes+-+mu%C5%BE%2C+kter%C3%BD+prolomil+zvukovou+bari%C3%A9ru&original_title=Louis+de+Fun%C3%A8s%2C+l%27homme+qui+a+pass%C3%A9+le+mur+du+son&year=2013",
+          "release_date": "2013-01-01"
+        },
+        {
+          "title": "Frank (2012)",
+          "overview": "",
+          "thumb": "",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Frank&original_title=Frank&year=2012",
+          "release_date": "2012-07-22"
+        },
+        {
+          "title": "October Baby (2011)",
+          "overview": "Hlavní hrdinka, devatenáctiletá Hannah, se potýká se zdravotními problémy, o kterých lékaři tvrdí, že jsou způsobeny jejím komplikovaným příchodem na svět. Její rodiče jsou nuceni říci své dceři pravdu. Byla adoptována poté, co přežila umělý potrat. Šokovaná tím, že celý její život byla lež, zraněná a zmatená, se Hannah přidá ke skupině svých přátel, kteří se vydávají na cestu napříč Spojenými státy. Možná se pokusí vyhledat svou biologickou matku a možná znovu najde naději.(kikin01)",
+          "thumb": "https://image.tmdb.org/t/p/w500/dZWU5Hn4lkhid3MqVMCEPk9z9QI.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=October+Baby&original_title=October+Baby&year=2011",
+          "release_date": "2011-10-30"
+        },
+        {
+          "title": "Pěst proti pěsti (2011)",
+          "overview": "Čínský mladík Chan Tin-Cheuk byl v Anglii na zkušené a nyní se vrací zpět domů, do školy bojového umění Cai Li Fo. Společně s ním se tam vydává i jeho japonský kamarád Takeda Shosa, který se chce tento bojový styl naučit. Po jejich příjezdu však do školy brzy přichází zástupci Panamerické společnosti, kteří ji chtějí převzít pod sebe a kteří mají navíc souhlas Chan Wai-Yipa, jenž byl ve škole mistrem. Nakonec se všichni domluví, že uspořádají souboj tří lidi ze školy proti třem lidem z Panamerické společnosti a vítěz rozhodne, zda škola bude převzata či nikoliv. Začíná jak tvrdá příprava na tento souboj, tak hledání třetího bojovníka.",
+          "thumb": "https://image.tmdb.org/t/p/w500/pyghwa6ifS7Y1fxg2UjV0U2T06Z.jpg",
+          "genre_ids": [
+            28
+          ],
+          "genres": [
+            "Akční"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=P%C4%9Bst+proti+p%C4%9Bsti&original_title=%E8%94%A1%E6%9D%8E%E4%BD%9B&year=2011",
+          "release_date": "2011-03-31"
+        },
+        {
+          "title": "Dulha Mil Gaya (2010)",
+          "overview": "Playboy Donsai má po otcově smrti zdědit obrovský majetek. Má to ale háček, podle závěti se musí oženit s vesnickou dívkou, dcerou otcova dávného přítele, kterou nikdy neviděl. Donsai se do manželství nehrne, ale není zbytí. Se svým právníkem vymyslí lest. Samarpreet si sice vezme, ale po svatbě ji okamžitě opustí, vrátí se do města a začne znovu vést nevázaný život. Mladá nevěsta dlouho čeká na jeho návrat, než pochopí, že ji manžel zradil. Z rodné vesnice se pak vydá na dalekou cestu, aby se ho pokusila získat zpátky.",
+          "thumb": "https://image.tmdb.org/t/p/w500/bDhmsg4yn6kQOiLJmjLEm3wg3nX.jpg",
+          "genre_ids": [
+            35,
+            18,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dulha+Mil+Gaya&original_title=%E0%A4%A6%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE+%E0%A4%AE%E0%A4%BF%E0%A4%B2+%E0%A4%97%E0%A4%AF%E0%A4%BE&year=2010",
+          "release_date": "2010-01-08"
+        },
+        {
+          "title": "George Michael: Live in London (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/tTyfHtiEEIkZ2FUf0tk9sqUywiM.jpg",
+          "genre_ids": [
+            10402
+          ],
+          "genres": [
+            "Hudební"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=George+Michael%3A+Live+in+London&original_title=George+Michael%3A+Live+in+London&year=2009",
+          "release_date": "2009-12-03"
+        },
+        {
+          "title": "MW (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/aIGHdgF0MyBxQYjhVuizmk9Ostp.jpg",
+          "genre_ids": [
+            18,
+            878,
+            53
+          ],
+          "genres": [
+            "Drama",
+            "Vědeckofantastický",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=MW&original_title=MW&year=2009",
+          "release_date": "2009-07-03"
+        },
+        {
+          "title": "The War Boys (2009)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/i57UvoI66TU8kWCrxViusgfLoIO.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+War+Boys&original_title=The+War+Boys&year=2009",
+          "release_date": "2009-05-30"
+        },
+        {
+          "title": "Přepadení v poušti (2007)",
+          "overview": "Aniž by věděl jak a proč, ocitá se Eddie sám uprostřed Mohavské pouště v jakési podivné hře, kterou nikdy nechtěl hrát. Jen pomocí vysílačky je ve spojení s člověkem, který ho sem dostal. Představil se jako Jimmy, ale neřekl, o co mu jde, proč si vybral právě Eddieho, ani jestli ho zabije, nebo nechá žít. Jedno je ale jasné, chce, aby Eddie trpěl a sáhl si až na dno svých sil a svého černého svědomí. Aby chtěl raději zemřít, než dál snášet Jimmyho krutou a zlomyslnou hru…",
+          "thumb": "https://image.tmdb.org/t/p/w500/3P5JdJBHAZRDtksicmGYZAnQxkK.jpg",
+          "genre_ids": [
+            28,
+            18,
+            53
+          ],
+          "genres": [
+            "Akční",
+            "Drama",
+            "Thriller"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=P%C5%99epaden%C3%AD+v+pou%C5%A1ti&original_title=Bone+Dry&year=2007",
+          "release_date": "2007-05-17"
+        },
+        {
+          "title": "Deník zabijáka (2007)",
+          "overview": "Frank Falenczyk má velmi rád svojí práci.  Je spokojený, protože může pracovat pro svojí rodinu polských mafiánů v Buffalu, pod vedením svého strýčka Romana. Náplní jeho práce je vydírání a zabíjení lidí, ohrožující obchodní zájmy rodiny. Jediným jeho problémem je alkohol. Kvůli němu si neplní sovje \"povinnosti\" a pohár trpělivosti přeteče, když pod vlivem alkoholu zaspí zabití šéfa irské konkurenční skupiny. Rodinou je odeslaný...",
+          "thumb": "https://image.tmdb.org/t/p/w500/4C5VQVdE2YRBPhpZLnExk1XUzDZ.jpg",
+          "genre_ids": [
+            35,
+            80,
+            53,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Krimi",
+            "Thriller",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Den%C3%ADk+zabij%C3%A1ka&original_title=You+Kill+Me&year=2007",
+          "release_date": "2007-02-09"
+        },
+        {
+          "title": "The Wait (2006)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/vEpUX40zSH6RBzJiyOyMI8DWE44.jpg",
+          "genre_ids": [
+            18
+          ],
+          "genres": [
+            "Drama"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Wait&original_title=The+Wait&year=2006",
+          "release_date": "2006-09-12"
+        },
+        {
+          "title": "Žhavé nápady (2006)",
+          "overview": "Pro univerzitní studenty se svět skládá ze sexu, drog a nadupaných večírků. Svět Bickforda Shmecklera je plný filozofických úvah, hodnotné literatury a intelektuálních myšlenek. Středem vesmíru je pro něj jeho notes vlastních velkolepých nápadů. Ten mu z legrace ukradne jeho spolužačka, sladká blondýnka Sarah. Po přečtení se do něj bezhlavě zamiluje. Bickford nestojí o svůdné sexy krásky, chce jen zpět svou knihu. A tak musí s kámošema vymyslet nejlepší plán svého života...",
+          "thumb": "https://image.tmdb.org/t/p/w500/bDMVu4QS9peGUgvingjfnlBCApQ.jpg",
+          "genre_ids": [
+            35,
+            10749
+          ],
+          "genres": [
+            "Komedie",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C5%BDhav%C3%A9+n%C3%A1pady&original_title=Bickford+Shmeckler%27s+Cool+Ideas&year=2006",
+          "release_date": "2006-06-02"
+        },
+        {
+          "title": "Činy a sláva (2004)",
+          "overview": "Rodina Benjamina Steeda se nedávno přestěhovala z pohodlí domova ve Vermontu do severní části státu New York a hodlá se začlenit do ustálených poměrů ve městě Palmyra. Ve snaze zapadnout do místního společenství zjistí, že pomoc, kterou si najali na vyčištění půdy k osídlení, se stává důvodem jejich vlastní náboženské rozepře – rozepře, která hrozí roztrhnout celou rodinu vedví. Dva bratři Steedové soupeří o přízeň dcery bohatého kupce – a oba dva se tak ocitají na odlišných stranách víry. Přestože se rodina snaží spor zahladit, brzo se ocitá postavena tváří v tvář hlubším problémům ohledně vlastní příslušnosti a víry v pravdu.",
+          "thumb": "https://image.tmdb.org/t/p/w500/b5Y3hNp7jY2rVea9EP0iCToNMlO.jpg",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "genres": [
+            "Drama",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C4%8Ciny+a+sl%C3%A1va&original_title=The+Work+and+the+Glory&year=2004",
+          "release_date": "2004-11-24"
+        },
+        {
+          "title": "Čínská odysea (2002)",
+          "overview": "Císař touží po svobodném životě tuláka a snaží se se svou sestrou, princeznou, uprchnout z královského paláce. Královské stráže ho chytí a vrátí rozzlobené matce, ale princezně, převlečené za muže, se podaří uprchnout. Mezitím se král Tyran vrátil do svého rodného města, kde je všeobecně opovrhován pro své šikanózní způsoby, aby vedl restauraci se svou chlapeckou sestrou Fénix. Mají spolu velmi blízký vztah. Král Bully se totiž mylně domnívá, že dokáže číst myšlenky své sestry. Když do města přijede princezna, král Bully zjistí, že ho přitahuje, ale v domnění, že je to muž, se rozhodne, že jeho přitažlivost je jakýmsi druhem empatie s Phoenix.",
+          "thumb": "https://image.tmdb.org/t/p/w500/jZdT63XWtBBCmPIzLyJd1YATdxn.jpg",
+          "genre_ids": [
+            28,
+            35,
+            10749
+          ],
+          "genres": [
+            "Akční",
+            "Komedie",
+            "Romantický"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=%C4%8C%C3%ADnsk%C3%A1+odysea&original_title=%E5%A4%A9%E4%B8%8B%E7%84%A1%E9%9B%99&year=2002",
+          "release_date": "2002-02-06"
+        },
         {
           "title": "The Astronaut (2025)",
           "overview": "",
@@ -149210,655 +150542,6 @@
           ],
           "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Supr%C3%A1kovi&original_title=Helt+super&year=2022",
           "release_date": "2022-09-30"
-        },
-        {
-          "title": "The Stranger (2022)",
-          "overview": "Po vraždě manžela se Amanda s dcerou Karli přestěhuje a koupí hotel na venkově. Jejich nový začátek přeruší příjezd záhadného muže, který prosí o úkryt a prchá před neznámou hrozbou.",
-          "thumb": "https://image.tmdb.org/t/p/w500/4dVjVQcgDvgclXhOjzxowGmkvmJ.jpg",
-          "genre_ids": [
-            27,
-            53
-          ],
-          "genres": [
-            "Horor",
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Stranger&original_title=The+Stranger&year=2022",
-          "release_date": "2022-09-29"
-        },
-        {
-          "title": "Forever Mine (2022)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/euVpg1rmwW6tOghRVv8nml9HZry.jpg",
-          "genre_ids": [
-            27,
-            53
-          ],
-          "genres": [
-            "Horor",
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Forever+Mine&original_title=Forever+Mine&year=2022",
-          "release_date": "2022-09-06"
-        },
-        {
-          "title": "Royalteen: Arvingen (2022)",
-          "overview": "Mladá holka to nečekaně začne táhnout s korunním princem, a proto se snaží utajit svoji skandální minulost i velké tajemství.",
-          "thumb": "https://image.tmdb.org/t/p/w500/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg",
-          "genre_ids": [
-            10749,
-            18
-          ],
-          "genres": [
-            "Romantický",
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Royalteen%3A+Arvingen&original_title=Royalteen%3A+Arvingen&year=2022",
-          "release_date": "2022-08-17"
-        },
-        {
-          "title": "L'ombra del giorno (2022)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/yZaGZwIqwuWKsyuoMiaursfw5QV.jpg",
-          "genre_ids": [
-            18,
-            36,
-            10749
-          ],
-          "genres": [
-            "Drama",
-            "Historický",
-            "Romantický"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=L%27ombra+del+giorno&original_title=L%27ombra+del+giorno&year=2022",
-          "release_date": "2022-02-24"
-        },
-        {
-          "title": "Prvok, Šampón, Tečka a Karel (2021)",
-          "overview": "V příběhu Prvoka, Šampóna, Tečky a Karla si čtyři kamarádi ve středním věku přiznají, že nežijí tak, jak si představovali. A rozhodnou se vyřešit svou krizi provokativní hrou a plněním odvážných úkolů. Jak čtyřicátník zjistí, jestli je opravdovej chlap? Jak zabrání korozi svých ideálů, rozplynutí snů a scvrkávání varlat? Prvok, Šampón, Tečka a Karel se pokusí najít v sobě odvahu udělat pořádnou kravinu jako zamlada. Nebo aspoň odvahu za všech okolností říkat to, co si opravdu myslí. Kdo splní úkol, není sráč…",
-          "thumb": "https://image.tmdb.org/t/p/w500/24jpUxfnACnvI7AlQeQF3gfNDFO.jpg",
-          "genre_ids": [
-            35
-          ],
-          "genres": [
-            "Komedie"
-          ],
-          "origin": "CZ",
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Prvok%2C+%C5%A0amp%C3%B3n%2C+Te%C4%8Dka+a+Karel&original_title=Prvok%2C+%C5%A0amp%C3%B3n%2C+Te%C4%8Dka+a+Karel&year=2021",
-          "release_date": "2021-07-29"
-        },
-        {
-          "title": "The Pond (2021)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/1He0eU9KbNECnxeZLmsfWC11qau.jpg",
-          "genre_ids": [
-            27,
-            18,
-            9648
-          ],
-          "genres": [
-            "Horor",
-            "Drama",
-            "Mysteriózní"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Pond&original_title=The+Pond&year=2021",
-          "release_date": "2021-02-23"
-        },
-        {
-          "title": "Drogová královna (2019)",
-          "overview": "Černá vdova není mrtvá... Drogová královna Carmen van Walravenová se skrývá v Kanadě a vede tam anonymní život. Jednoho večera je obtěžována její kolegyně a Carmen jí pomůže. V sebeobraně pachatele zabije, je zatčena a vydána do Nizozemska. Zatímco její děti jsou v šoku, že jejich matka stále žije, jsou tu i lidé, kteří si s Carmen ještě musí něco vyřídit. Všichni jsou opět vtaženi do emocionální horské dráhy. Carmen se nyní bude muset vypořádat se svou minulostí, aby zachránila svou rodinu.",
-          "thumb": "https://image.tmdb.org/t/p/w500/1ABkQC0jfNbqAfGtGrtXq3ylxa8.jpg",
-          "genre_ids": [
-            28,
-            80,
-            53,
-            18
-          ],
-          "genres": [
-            "Akční",
-            "Krimi",
-            "Thriller",
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Drogov%C3%A1+kr%C3%A1lovna&original_title=Penoza%3A+The+Final+Chapter&year=2019",
-          "release_date": "2019-11-28"
-        },
-        {
-          "title": "Hrdinové z plamenů (2019)",
-          "overview": "Film vychází ze skutečných událostí a točí se kolem hrdinského úsilí týmu hasičů, kteří se snaží vypořádat s požárem, jenž vypukl v ropné rafinerii v Dalianu.",
-          "thumb": "https://image.tmdb.org/t/p/w500/k9UvtdhbYlggXMKmdAo6rHqEtkR.jpg",
-          "genre_ids": [
-            18,
-            28
-          ],
-          "genres": [
-            "Drama",
-            "Akční"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Hrdinov%C3%A9+z+plamen%C5%AF&original_title=%E7%83%88%E7%81%AB%E8%8B%B1%E9%9B%84&year=2019",
-          "release_date": "2019-08-29"
-        },
-        {
-          "title": "The Land (2016)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/oKcPcffgFfEDsEGVUq2eVqvEQnb.jpg",
-          "genre_ids": [
-            18
-          ],
-          "genres": [
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Land&original_title=The+Land&year=2016",
-          "release_date": "2016-07-29"
-        },
-        {
-          "title": "Demon Tongue (2016)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/9EDV47lFdjU5BtMTLzgspOaw8dW.jpg",
-          "genre_ids": [
-            27
-          ],
-          "genres": [
-            "Horor"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Demon+Tongue&original_title=Demon+Tongue&year=2016",
-          "release_date": "2016-06-21"
-        },
-        {
-          "title": "Prokletí spící panny (2016)",
-          "overview": "Thomas zdědí rodinné panské sídlo a s ním i starověké prokletí. Aby zachránil krásnou Růženku, musí nejen rozluštit dávnou kletbu a odhalit tajemství sídla, ale postavit se i zlým démonům…",
-          "thumb": "https://image.tmdb.org/t/p/w500/fUyVUMVaZyEauIjjdkcEx4AU9p2.jpg",
-          "genre_ids": [
-            14,
-            27
-          ],
-          "genres": [
-            "Fantasy",
-            "Horor"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Proklet%C3%AD+sp%C3%ADc%C3%AD+panny&original_title=The+Curse+of+Sleeping+Beauty&year=2016",
-          "release_date": "2016-05-05"
-        },
-        {
-          "title": "Cesta za snem (2013)",
-          "overview": "Film inspirovaný skutečnými událostmi se odehrává v Manchesteru v roce 1984. Jedenáctiletý Georgie je mimořádně nadaný fotbalista, který se často dostává do problémů kvůli své drobné trestné činnosti. Když se pokusí ukrást peněženku Sira Matta Busbyho (postava založená na skutečném fotbalovém manažerovi Manchesteru United), Busby ho najde a zjistí, že Georgie má obrovský talent. Rozhodne se Georgieho a skupinu jeho přátel trénovat a připravit je na soutěž Manchester Junior Cup. Velká soutěž se blíží a Georgie musí skloubit školní povinnosti a lásku k fotbalu, naučit se být sám sebou a nezklamat rodinu ani přátele.",
-          "thumb": "https://image.tmdb.org/t/p/w500/zyEx457wDSYFEsvweCl4dvsv46S.jpg",
-          "genre_ids": [
-            18
-          ],
-          "genres": [
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Cesta+za+snem&original_title=Believe&year=2013",
-          "release_date": "2013-10-04"
-        },
-        {
-          "title": "Beyoncé: Life Is But a Dream (2013)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/ycCe2U86MvPikPi1grnOrTxefFL.jpg",
-          "genre_ids": [
-            99
-          ],
-          "genres": [
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Beyonc%C3%A9%3A+Life+Is+But+a+Dream&original_title=Beyonc%C3%A9%3A+Life+Is+But+a+Dream&year=2013",
-          "release_date": "2013-06-10"
-        },
-        {
-          "title": "Homecoming (2011)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/wV9EPHz9R2FRiW2Qi2rLjnlCenU.jpg",
-          "genre_ids": [
-            18
-          ],
-          "genres": [
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Homecoming&original_title=Homecoming&year=2011",
-          "release_date": "2011-10-15"
-        },
-        {
-          "title": "Tajemství tety Eleanory (2009)",
-          "overview": "Nathanaelovi bude brzo sedm, ale pořád ještě neumí číst. Když mu jeho teta Eleanor odkáže svou knihovnu, která má stovky knih, je Nathanael velmi zklamaný. Každý z příběhů ale přinese úžasné tajemství: když padne noc, postavičky – roztomilá Alenka, Zlá víla, Kapitán Hook – vystupují z knížek. Musí varovat Nathanaela, že jsou ve velkém nebezpečí a hrozí jim, že navždy zmizí. Aby zachránil své malé přátele a jejich příběhy, vydává se Nathanael, zmenšený Zlou vílou na jejich velikost, za dobrodružstvím.",
-          "thumb": "https://image.tmdb.org/t/p/w500/tv4sSjbYDY0Fpzv41i7LdKiig95.jpg",
-          "genre_ids": [
-            16,
-            10751
-          ],
-          "genres": [
-            "Animovaný",
-            "Rodinný"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Tajemstv%C3%AD+tety+Eleanory&original_title=K%C3%A9rity%2C+la+maison+des+contes&year=2009",
-          "release_date": "2009-12-16"
-        },
-        {
-          "title": "Stvoření (2009)",
-          "overview": "Tým výzkumníků cestuje do Švýcarských Alp, aby zkoumal jistý objev ohledně lidského vývoje. Výlet se ale promění ve smrtelný boj o přežití v momentu, kdy vědci narazí na podivnou rokli a v ní najdou něco v co ani nedoufali. Nebo někoho.",
-          "thumb": "https://image.tmdb.org/t/p/w500/5bA0KY80E0qyam9awVBfuhxwrte.jpg",
-          "genre_ids": [
-            12,
-            53,
-            27
-          ],
-          "genres": [
-            "Dobrodružný",
-            "Thriller",
-            "Horor"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Stvo%C5%99en%C3%AD&original_title=Humains&year=2009",
-          "release_date": "2009-04-22"
-        },
-        {
-          "title": "Hacking Democracy (2006)",
-          "overview": "Ve Spojených státech jsou k téměř jakýmkoli volbám a hlasování používány elektronické volební přístroje. Přibližně 87 procent voličů odevzdává své hlasy jejich prostřednictvím. Jsou ale spolehlivé? Chrání citlivá data a volební výsledky proti hackerům? Díky médiím je tomuto problému věnována v poslední době stále větší pozornost. Pokud ale není bezpečný volební systém, jak to vypadá s demokracií ve Spojených státech? Aktuální dokument Piráti demokracie ukazuje díry v zabezpečení elektronického volebního systému Spojených států. Starší dáma a spisovatelka Bev Herrisová žádala v roce 2002 vysvětlení, proč je v jejím volebním okrsku zaváděno elektronické hlasování. Odpověď lokálních politiků ji neuspokojila, a tak se rozhodla, že se o systému pokusí zjistit více informací na vlastní pěst. Zaměřila se především na mnohokrát zpochybňované hlasování na Floridě během posledních prezidentských voleb. Během svého pátrání odhalila stovky případů zneužití volebních informací.",
-          "thumb": "https://image.tmdb.org/t/p/w500/8JsyixMw0i6wVWKToBbRyKZXNJg.jpg",
-          "genre_ids": [
-            99,
-            80
-          ],
-          "genres": [
-            "Dokumentární",
-            "Krimi"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Hacking+Democracy&original_title=Hacking+Democracy&year=2006",
-          "release_date": "2006-11-02"
-        },
-        {
-          "title": "Melvin Goes to Dinner (2003)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/nH2RvmUq4c2R4GN4GRzlVV3dHMx.jpg",
-          "genre_ids": [
-            35,
-            18,
-            10749
-          ],
-          "genres": [
-            "Komedie",
-            "Drama",
-            "Romantický"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Melvin+Goes+to+Dinner&original_title=Melvin+Goes+to+Dinner&year=2003",
-          "release_date": "2003-12-04"
-        },
-        {
-          "title": "The Corporation (2003)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/aN7LHIKHkq6x16a4pXlaiB7PHiP.jpg",
-          "genre_ids": [
-            99
-          ],
-          "genres": [
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=The+Corporation&original_title=The+Corporation&year=2003",
-          "release_date": "2003-09-10"
-        },
-        {
-          "title": "Un monde presque paisible (2002)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/6a9FYJm2LnFlV9bxUrqiVg0s7gS.jpg",
-          "genre_ids": [
-            35,
-            18,
-            10749
-          ],
-          "genres": [
-            "Komedie",
-            "Drama",
-            "Romantický"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Un+monde+presque+paisible&original_title=Un+monde+presque+paisible&year=2002",
-          "release_date": "2002-12-18"
-        },
-        {
-          "title": "Crackerjack (2002)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/bSmzRS7R4HRw9EAGPydFuZJl3jw.jpg",
-          "genre_ids": [
-            35
-          ],
-          "genres": [
-            "Komedie"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Crackerjack&original_title=Crackerjack&year=2002",
-          "release_date": "2002-07-11"
-        },
-        {
-          "title": "Temná voda (2002)",
-          "overview": "Když se Yoshimi rozpadne manželství, je nucena pro sebe a svou pětiletou dceru Ikuko najít nový domov. Usadí se v jednom z temných a pochmurných bytů nevlídného domu, kde se brzy začínají dít divné věci. Yoshimi je pronásledována kalnou vodou, pronikající stěnami a stropem, a dráždivým přízrakem červené tašky, která kdysi patřila dívence, jež záhadně před dvěma roky zmizela. Plna strachu o život své dcery, Yoshimi zoufale bojuje, avšak její hrůza se stupňuje v závislosti na tom, jak začíná odhalovat spojení mezi podivnými událostmi",
-          "thumb": "https://image.tmdb.org/t/p/w500/7JpBzb3Eb2fryzzSd9q64GwcDfe.jpg",
-          "genre_ids": [
-            27,
-            9648,
-            53
-          ],
-          "genres": [
-            "Horor",
-            "Mysteriózní",
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Temn%C3%A1+voda&original_title=%E4%BB%84%E6%9A%97%E3%81%84%E6%B0%B4%E3%81%AE%E5%BA%95%E3%81%8B%E3%82%89&year=2002",
-          "release_date": "2002-01-19"
-        },
-        {
-          "title": "Just Breathe (2025)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg",
-          "genre_ids": [
-            53
-          ],
-          "genres": [
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Just+Breathe&original_title=Just+Breathe&year=2025",
-          "release_date": "2025-11-06"
-        },
-        {
-          "title": "TRON: Ares (2025)",
-          "overview": "„TRON: Ares“ sleduje vysoce sofistikovaný program Ares, který je vyslán z digitálního světa do světa reálného na nebezpečnou misi, což znamená první setkání lidstva s bytostmi vytvořené umělou inteligencí.",
-          "thumb": "https://image.tmdb.org/t/p/w500/ofdyEronW9Y7lz61c9SzTcUncO3.jpg",
-          "genre_ids": [
-            878,
-            12,
-            28
-          ],
-          "genres": [
-            "Vědeckofantastický",
-            "Dobrodružný",
-            "Akční"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=TRON%3A+Ares&original_title=TRON%3A+Ares&year=2025",
-          "release_date": "2025-10-08"
-        },
-        {
-          "title": "Dospělost (2025)",
-          "overview": "Sourozenci Meg a Noah se v dnešní Americe stejně jako většina sotva drží nad vodou. Když objeví mrtvé tělo, dlouho pohřbené v suterénu svých rodičů, vrací se do rodného města, ze kterého utekli, a ocitají se v zajetí zločinu a vraždy.",
-          "thumb": "https://image.tmdb.org/t/p/w500/a40Gi0Zq4Ecqu3obmOp6TSgEne1.jpg",
-          "genre_ids": [
-            35,
-            80,
-            18,
-            9648
-          ],
-          "genres": [
-            "Komedie",
-            "Krimi",
-            "Drama",
-            "Mysteriózní"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dosp%C4%9Blost&original_title=Adulthood&year=2025",
-          "release_date": "2025-09-19"
-        },
-        {
-          "title": "Primitive War (2025)",
-          "overview": "Děj se odehrává v roce 1968 během války ve Vietnamu. Elitní vojenská jednotka, zvaná Supí komando, je vyslána do odlehlého údolí v džungli, aby zjistila, co se stalo se ztracenou četou Zelených Baretů. V údolí však vojáci narazí na dinosaury, kteří se zde z neznámých důvodů ocitli. Jednotka tedy musí bojovat nejen s nebezpečnými dinosaury, ale i s drsným prostředím džungle a záhadami, které údolí skrývá.",
-          "thumb": "https://image.tmdb.org/t/p/w500/egDAs0vh2SzTR07eUzdcC1XYkTS.jpg",
-          "genre_ids": [
-            28,
-            27,
-            10752
-          ],
-          "genres": [
-            "Akční",
-            "Horor",
-            "Válečný"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Primitive+War&original_title=Primitive+War&year=2025",
-          "release_date": "2025-08-21"
-        },
-        {
-          "title": "Strange Harvest (2025)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg",
-          "genre_ids": [
-            27,
-            80,
-            9648
-          ],
-          "genres": [
-            "Horor",
-            "Krimi",
-            "Mysteriózní"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Strange+Harvest&original_title=Strange+Harvest&year=2025",
-          "release_date": "2025-08-08"
-        },
-        {
-          "title": "Neprůstřelná rodina (2025)",
-          "overview": "Ray Hayes býval poctivý policista, jenže měl dva velké sny, které z policejního platu nemohl uskutečnit – chtěl dát děti do dobrých škol a také si chtěl se ženou otevřít restauraci. Proto se jednou rozhodl změnit strany a začít pracovat pro podsvětí. Stal se mužem, co hasí každý problém své nové šéfové, ale o pět let později přesně v den, kdy už měl na účtu dost peněz, aby se mohl s mafiány rozloučit a žít poctivý život živnostníka, se sám do problémů dostal. Jejich revír chce převzít konkurence a poté, co zabili šéfovou, mu oznámili, ať s nějakým mafiánským důchodem nepočítá. Čímž ovšem není ani zdaleka překvapení a novinkám konec, protože se brzy provalí i jedno tajemství, které před ním už dvacet let ukrývá jeho vlastní žena...",
-          "thumb": "https://image.tmdb.org/t/p/w500/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg",
-          "genre_ids": [
-            28,
-            35,
-            80
-          ],
-          "genres": [
-            "Akční",
-            "Komedie",
-            "Krimi"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Nepr%C5%AFst%C5%99eln%C3%A1+rodina&original_title=Guns+Up&year=2025",
-          "release_date": "2025-05-15"
-        },
-        {
-          "title": "Nepřivolávej nic zlého (2024)",
-          "overview": "Seznámili se na dovolené v Itálii. Daltonovi, běžná londýnská rodina, a charismatický lékař Paddy se ženou a synem. Stačilo pár společných prázdninových zážitků a obě rodiny si sedly natolik, že krátce po návratu už Daltonovi frčí na venkov, aby využili pozvání a strávili nezapomenutelný víkend na Paddyho rozlehlém statku v přírodě, daleko od civilizace. Protože manželé Daltonovi procházejí vztahovou krizí, doufají, že trocha dobrodružství je může „nakopnout“ správným směrem. Jenže od samého příjezdu jde všechno z kopce. Slibovaný ráj na Zemi má k dokonalosti daleko a z původně okouzlujícího Paddyho se vyklube podivín, jehož chování má k normálu hodně daleko. I proto se Daltonovi rozhodnou pobyt u „přátel“ ukončit předčasně. Netuší však, že je to Paddy, kdo řekne kdy a jestli vůbec odjedou.",
-          "thumb": "https://image.tmdb.org/t/p/w500/tIwBOynrS2FJNnliOyH2cjGaNCe.jpg",
-          "genre_ids": [
-            27,
-            53
-          ],
-          "genres": [
-            "Horor",
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Nep%C5%99ivol%C3%A1vej+nic+zl%C3%A9ho&original_title=Speak+No+Evil&year=2024",
-          "release_date": "2024-09-11"
-        },
-        {
-          "title": "Vánoce pod jmelím (2022)",
-          "overview": "Vdovec o Vánocích zdědí farmu a jenom pomalu si zvyká na nový život na vesnici. Jeho děti ale potají vymyslí plán, jak tam zůstat navždycky.",
-          "thumb": "https://image.tmdb.org/t/p/w500/rGCwI76dylPViDF9VXFY0ORRhls.jpg",
-          "genre_ids": [
-            10751,
-            35
-          ],
-          "genres": [
-            "Rodinný",
-            "Komedie"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=V%C3%A1noce+pod+jmel%C3%ADm&original_title=Christmas+on+Mistletoe+Farm&year=2022",
-          "release_date": "2022-11-23"
-        },
-        {
-          "title": "Jack Mimoun a tajemný ostrov (2022)",
-          "overview": "Dva roky poté, co přežil sám na nepřátelském ostrově Val Verde, se Jack Mimoun stal hvězdným dobrodruhem. Kniha vyprávějící jeho příběh je bestsellerem a jeho televizní program láme rekordy ve sledovanosti. Potom jej osloví tajemná Aurélie, která dostane Jacka nevědomky zpět do Val Verde, aby pomohl při pátrání po legendárním meči piráta La Busea. Za doprovodu Bruna, Jackova ambiciózního, ale ne příliš odvážného manažera, a Jeana-Marca, problémového a nepředvídatelného pilota helikoptéry, budou naši dobrodruhové čelit mnohým nástrahám džungle Val Verde v honbě za pokladem.",
-          "thumb": "https://image.tmdb.org/t/p/w500/9iMY1GSFTnaHvhpPS5DTTgnAHKv.jpg",
-          "genre_ids": [
-            35,
-            12
-          ],
-          "genres": [
-            "Komedie",
-            "Dobrodružný"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Jack+Mimoun+a+tajemn%C3%BD+ostrov&original_title=Jack+Mimoun+et+les+secrets+de+Val+Verde&year=2022",
-          "release_date": "2022-10-12"
-        },
-        {
-          "title": "Wolf (2022)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/4R9kYt5LCBus2BNBwwP4KNdF7PV.jpg",
-          "genre_ids": [
-            99
-          ],
-          "genres": [
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Wolf&original_title=Wolf&year=2022",
-          "release_date": "2022-09-15"
-        },
-        {
-          "title": "Tři Tygři ve filmu: JACKPOT (2022)",
-          "overview": "Ve zběsilé akční komedii se na dobrodružnou cestu za nečekanou výhrou vydá předposlední český akční hrdina a strážce Teritoria Milan, citlivá duše, prokletý básník a řidič tramvaje David Votrubek, orgán městské policie Robert, a snaživý, leč průměrný herec oblastního divadla Herbert. Stanou se z nich přátelé, nebo rivalové? Najde David po cestě ztraceného otce, Robert lásku a sebevědomí, Milan Indulonu a slávu, a Herbert vytoužené angažmá? Rozbije Milan chvatem z Krav Mňagy JACKPOT a zvolá nakonec David Votrubek své „vyhjáááál!“, nebo to nebude tak jednoduché? Road trip z Ostravy do Prahy plný šílených událostí, nečekaných odboček (Brno?) a akčních scén jim totiž stíží nejen Davidův osobitý pohled na svět, ale také mafiánský boss Král taktéž toužící po miliónové výhře.",
-          "thumb": "https://image.tmdb.org/t/p/w500/rOHWhzXPGPN67KGa7OKJQ4oZzbI.jpg",
-          "genre_ids": [
-            35
-          ],
-          "genres": [
-            "Komedie"
-          ],
-          "origin": "CZ",
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=T%C5%99i+Tyg%C5%99i+ve+filmu%3A+JACKPOT&original_title=T%C5%99i+Tyg%C5%99i+ve+filmu%3A+JACKPOT&year=2022",
-          "release_date": "2022-05-26"
-        },
-        {
-          "title": "Tom (2022)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/1B1sb6SxwPI55yugPsQdm7ghlIn.jpg",
-          "genre_ids": [
-            18
-          ],
-          "genres": [
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Tom&original_title=Tom&year=2022",
-          "release_date": "2022-05-11"
-        },
-        {
-          "title": "Witch Hunt (2022)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/voD0ToTNM0T0cajZU9tKDTzeRXN.jpg",
-          "genre_ids": [
-            27
-          ],
-          "genres": [
-            "Horor"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Witch+Hunt&original_title=Witch+Hunt&year=2022",
-          "release_date": "2022-05-01"
-        },
-        {
-          "title": "A Tale of Two Guns (2022)",
-          "overview": "Na bezprávném Západě vládli zemi kovbojové, proslulé bratrstvo zabijáků a zlodějů, s brutálními pěstmi a rychlými zbraněmi. Osud je nakonec dostihl a nyní má nemilosrdný gang jen jediného přeživšího člena. Když pověřený pistolník přijme výzvu k vypátrání posledního Kovboje, začíná honička, létají kulky a přežít může jen jeden z těchto otrlých mužů.",
-          "thumb": "https://image.tmdb.org/t/p/w500/kwCUleEzLjSLNMs9rRNP5FRC4pA.jpg",
-          "genre_ids": [
-            37
-          ],
-          "genres": [
-            "Western"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=A+Tale+of+Two+Guns&original_title=A+Tale+of+Two+Guns&year=2022",
-          "release_date": "2022-02-17"
-        },
-        {
-          "title": "Tech Billionaires: Bill Gates (2021)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/aEo4ESO2sm1FQMGvslwGt4vgehy.jpg",
-          "genre_ids": [
-            99
-          ],
-          "genres": [
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Tech+Billionaires%3A+Bill+Gates&original_title=Tech+Billionaires%3A+Bill+Gates&year=2021",
-          "release_date": "2021-06-22"
-        },
-        {
-          "title": "Triggered (2020)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/aqcCIyvVYa5BnmtCL7NVB2Ifn2C.jpg",
-          "genre_ids": [
-            27,
-            28
-          ],
-          "genres": [
-            "Horor",
-            "Akční"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Triggered&original_title=Triggered&year=2020",
-          "release_date": "2020-08-28"
-        },
-        {
-          "title": "Dračí záchranáři: Hon za zlatou dračicí (2020)",
-          "overview": "Dračí záchranáře čeká úžasná honba za pokladem! Musí totiž rychle najít vzácné zlaté dračí vejce a ochránit ho před zlými piráty.",
-          "thumb": "https://image.tmdb.org/t/p/w500/fD68JTgLp9Sa5tgdYIdvxWgj9I0.jpg",
-          "genre_ids": [
-            16,
-            10751,
-            10770
-          ],
-          "genres": [
-            "Animovaný",
-            "Rodinný",
-            "Televizní film"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Dra%C4%8D%C3%AD+z%C3%A1chran%C3%A1%C5%99i%3A+Hon+za+zlatou+dra%C4%8Dic%C3%AD&original_title=Dragons%3A+Rescue+Riders%3A+Hunt+for+the+Golden+Dragon&year=2020",
-          "release_date": "2020-03-27"
-        },
-        {
-          "title": "Ledová sezóna: Rodinná dovolená (2020)",
-          "overview": "Normovi zahlcenému královskými povinnostmi ukradnou korunu. Norm se vydává na cestu, aby ji našel. Její nalezení je spojeno s nápravou vztahů v rodině.",
-          "thumb": "https://image.tmdb.org/t/p/w500/ohWU8bPbAK5WEAboIabivld9Hyw.jpg",
-          "genre_ids": [
-            16,
-            35,
-            10751
-          ],
-          "genres": [
-            "Animovaný",
-            "Komedie",
-            "Rodinný"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Ledov%C3%A1+sez%C3%B3na%3A+Rodinn%C3%A1+dovolen%C3%A1&original_title=Norm+of+the+North%3A+Family+Vacation&year=2020",
-          "release_date": "2020-02-25"
-        },
-        {
-          "title": "Nevinná lež (2019)",
-          "overview": "Studentka Katie během boje s rakovinou získá sympatie i finanční podporu svých spolužáků. Jediný problém je v tom, že není nemocná. Nemoc jen předstírá kvůli touze po pozornosti a penězích... Katie je talentovaná tanečnice, která se zjevně narodila pro parket. Stejně obratně balancuje i na hraně své do detailů promyšlené šarády, která má všechny okolo – včetně početného zástupu sponzorů - přesvědčit o tom, že statečně bojuje s rakovinou. Už dávno je považována za místní hrdinku a zvěčněna prostřednictvím vlastního hashtagu, ale nyní je kvůli lukrativnímu stipendiu nucena předložit autentické lékařské potvrzení o své diagnóze. Její domeček z karet se začíná pomalu hroutit poté, co se narychlo pokouší získat falešné dokumenty. Situaci jí neulehčuje ani přehnaná péče starostlivé přítelkyně (Amber Andersonová), která je jí neustále po boku, a vyhrožování otce, že její podvod vynese na světlo.",
-          "thumb": "https://image.tmdb.org/t/p/w500/c36SFlCl8wxDNWjsPNZyTUvvTBv.jpg",
-          "genre_ids": [
-            18
-          ],
-          "genres": [
-            "Drama"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Nevinn%C3%A1+le%C5%BE&original_title=White+Lie&year=2019",
-          "release_date": "2019-09-07"
-        },
-        {
-          "title": "Skutečné vraždy: Temné dědictví (2019)",
-          "overview": "Knihovnice Aurora, která má ráda záhady všeho druhu, se opět připlete k případu. Tentokrát spolu s Klubem skutečných vražd vyšetřuje smrt bohaté ženy, kterou někdo otrávil na svatbě její neteře přímo před zraky rodiny...",
-          "thumb": "https://image.tmdb.org/t/p/w500/nYkEw4fXfZnusQpR83k8GS8wBLH.jpg",
-          "genre_ids": [
-            9648,
-            10770,
-            80
-          ],
-          "genres": [
-            "Mysteriózní",
-            "Televizní film",
-            "Krimi"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Skute%C4%8Dn%C3%A9+vra%C5%BEdy%3A+Temn%C3%A9+d%C4%9Bdictv%C3%AD&original_title=Aurora+Teagarden+Mysteries%3A+An+Inheritance+to+Die+For&year=2019",
-          "release_date": "2019-08-11"
-        },
-        {
-          "title": "Agentka v utajení (2019)",
-          "overview": "Koprodukční thriller napsaný a režírovaný izraelským filmařem Yuvalem Adlerem. Je natočen podle uznávaného hebrejského románu The English Teacher od Yiftach Reicher-Atira, bývalého zpravodajského důstojníka... Rachel je nevyzpytatelná špiónka izraelské zpravodajské služby Mossad. Během pohřbu svého otce v Londýně zmizí beze stopy. Jediným vodítkem k místu jejího pobytu je záhadný telefonát bývalému manažerovi Thomasovi, kterého poté Mossad povolá z Německa do Izraele. Rachel je součástí obrovské špionáže proti íránskému nukleárnímu programu a Thomas se musí vrátit k jejím postupům, aby zjistil, jakou možnou hrozbu může pro jejich operaci nyní představovat. Zároveň se snažil chránit ji.",
-          "thumb": "https://image.tmdb.org/t/p/w500/7fojgblOYLelv0yi9OczouCfR16.jpg",
-          "genre_ids": [
-            18,
-            53
-          ],
-          "genres": [
-            "Drama",
-            "Thriller"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=select_stream&cz_title=Agentka+v+utajen%C3%AD&original_title=The+Operative&year=2019",
-          "release_date": "2019-07-24"
         }
       ]
     }
@@ -151937,6 +152620,25 @@
           ]
         },
         {
+          "title": "alias Charlie Sheen (2025)",
+          "overview": "Dvoudílný dokument, ve kterém herec Charlie Sheen otevřeně promluví o svém oslnivém vzestupu v Hollywoodu, skandálním pádu i náročné cestě za uzdravením.",
+          "thumb": "https://image.tmdb.org/t/p/w500/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=298234",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=298234&season=1&series_title=alias+Charlie+Sheen"
+            }
+          ]
+        },
+        {
           "title": "Černý králík (2025)",
           "overview": "Majitel úspěšné restaurace se kvůli bratrovi, kterému jdou po krku lichváři, nechá vtáhnout do nebezpečného podsvětí New Yorku.",
           "thumb": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
@@ -153846,6 +154548,25 @@
               "season_number": 2,
               "name": "2. sezóna",
               "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=219446&season=2&series_title=Aile"
+            }
+          ]
+        },
+        {
+          "title": "Arnold (2023)",
+          "overview": "Slavný kulturista, úspěšný hollywoodský herec a taky vlivný politik. Osobní dokument o pestrém životě a kariéře uznávaného Arnolda Schwarzeneggera.",
+          "thumb": "https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=226135",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "Minisérie",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=226135&season=1&series_title=Arnold"
             }
           ]
         },
@@ -157374,6 +158095,31 @@
           ]
         },
         {
+          "title": "Vampire in the Garden (2022)",
+          "overview": "Upíří královna a mladá dívka se rozhodnou navzdory všem překážkám společně najít „ráj“ – místo, kde lidé a upíři žijí v míru.",
+          "thumb": "https://image.tmdb.org/t/p/w500/xFrEiJxI0PUZHC6NmfjSrOXfQ4v.jpg",
+          "genre_ids": [
+            16,
+            18,
+            10765,
+            10759
+          ],
+          "genres": [
+            "Animovaný",
+            "Drama",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=99772",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=99772&season=1&series_title=Vampire+in+the+Garden"
+            }
+          ]
+        },
+        {
           "title": "Vidím vás (2022)",
           "overview": "Zlověstné dopisy, podivní sousedi a děsivé výhrůžky. Rodina se konečně nastěhuje do vysněného domu na předměstí, kde na ně ale čeká hrůzostrašná noční můra.",
           "thumb": "https://image.tmdb.org/t/p/w500/6RrseODZo2e66XOzC1XMzMuecnf.jpg",
@@ -159736,6 +160482,35 @@
               "season_number": 3,
               "name": "3. sezóna",
               "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=119769&season=3&series_title=Taxi+Driver"
+            }
+          ]
+        },
+        {
+          "title": "The Cleaner (2021)",
+          "overview": "Poté, co kriminalisté provedou své úkony, uklízeč uklidí hrůzné pozůstatky. Pro Wickyho je krvavá lázeň a hospoda jedna velká práce.",
+          "thumb": "https://image.tmdb.org/t/p/w500/zEWFux3hrOjisaehbDUBvzeSJ4o.jpg",
+          "genre_ids": [
+            35
+          ],
+          "genres": [
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=132156",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=1&series_title=The+Cleaner"
+            },
+            {
+              "season_number": 2,
+              "name": "2. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=2&series_title=The+Cleaner"
+            },
+            {
+              "season_number": 3,
+              "name": "3. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=3&series_title=The+Cleaner"
             }
           ]
         },
@@ -191503,6 +192278,26 @@
           ]
         },
         {
+          "title": "Vojna policajtov (2024)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/xliTpaMSrjdiQ5We8AxLdAWuZFR.jpg",
+          "genre_ids": [
+            80
+          ],
+          "genres": [
+            "Krimi"
+          ],
+          "origin": "SK",
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=301594",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=301594&season=1&series_title=Vojna+policajtov"
+            }
+          ]
+        },
+        {
           "title": "Čas nádejí (2024)",
           "overview": "Příběh mladého Gézy Violy, syna místního hospodáře, který chce svůj život žít jinak než jeho otec. Pro prospěch rodinného podnikání uzavře obchodní výhodné manželství s dcerou řezníka Belsberga, mladičkou Rózou. Jejich životy i celé společnosti však krutě ovlivní a poznamená válka.",
           "thumb": "https://image.tmdb.org/t/p/w500/z2GI3BuR5cs5B62orTA9lJTPLBB.jpg",
@@ -197988,6 +198783,118 @@
       ],
       "new": [
         {
+          "title": "alias Charlie Sheen (2025)",
+          "overview": "Dvoudílný dokument, ve kterém herec Charlie Sheen otevřeně promluví o svém oslnivém vzestupu v Hollywoodu, skandálním pádu i náročné cestě za uzdravením.",
+          "thumb": "https://image.tmdb.org/t/p/w500/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=298234",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=298234&season=1&series_title=alias+Charlie+Sheen"
+            }
+          ]
+        },
+        {
+          "title": "Arnold (2023)",
+          "overview": "Slavný kulturista, úspěšný hollywoodský herec a taky vlivný politik. Osobní dokument o pestrém životě a kariéře uznávaného Arnolda Schwarzeneggera.",
+          "thumb": "https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+          "genre_ids": [
+            99
+          ],
+          "genres": [
+            "Dokumentární"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=226135",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "Minisérie",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=226135&season=1&series_title=Arnold"
+            }
+          ]
+        },
+        {
+          "title": "Vampire in the Garden (2022)",
+          "overview": "Upíří královna a mladá dívka se rozhodnou navzdory všem překážkám společně najít „ráj“ – místo, kde lidé a upíři žijí v míru.",
+          "thumb": "https://image.tmdb.org/t/p/w500/xFrEiJxI0PUZHC6NmfjSrOXfQ4v.jpg",
+          "genre_ids": [
+            16,
+            18,
+            10765,
+            10759
+          ],
+          "genres": [
+            "Animovaný",
+            "Drama",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=99772",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=99772&season=1&series_title=Vampire+in+the+Garden"
+            }
+          ]
+        },
+        {
+          "title": "The Cleaner (2021)",
+          "overview": "Poté, co kriminalisté provedou své úkony, uklízeč uklidí hrůzné pozůstatky. Pro Wickyho je krvavá lázeň a hospoda jedna velká práce.",
+          "thumb": "https://image.tmdb.org/t/p/w500/zEWFux3hrOjisaehbDUBvzeSJ4o.jpg",
+          "genre_ids": [
+            35
+          ],
+          "genres": [
+            "Komedie"
+          ],
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=132156",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=1&series_title=The+Cleaner"
+            },
+            {
+              "season_number": 2,
+              "name": "2. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=2&series_title=The+Cleaner"
+            },
+            {
+              "season_number": 3,
+              "name": "3. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=132156&season=3&series_title=The+Cleaner"
+            }
+          ]
+        },
+        {
+          "title": "Vojna policajtov (2024)",
+          "overview": "",
+          "thumb": "https://image.tmdb.org/t/p/w500/xliTpaMSrjdiQ5We8AxLdAWuZFR.jpg",
+          "genre_ids": [
+            80
+          ],
+          "genres": [
+            "Krimi"
+          ],
+          "origin": "SK",
+          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=301594",
+          "seasons": [
+            {
+              "season_number": 1,
+              "name": "1. sezóna",
+              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=301594&season=1&series_title=Vojna+policajtov"
+            }
+          ]
+        },
+        {
           "title": "Nezvladatelní (2025)",
           "overview": "Policista z malého města má podezření, že místní škola pro problémové teenagery a její nebezpečně charismatická zakladatelka skrývají temné tajemství.",
           "thumb": "https://image.tmdb.org/t/p/w500/5aNad9yvHHzZnOt8aFKjv5VzQbP.jpg",
@@ -199178,128 +200085,6 @@
               "season_number": 1,
               "name": "1. sezóna",
               "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=21681&season=1&series_title=Ctrl"
-            }
-          ]
-        },
-        {
-          "title": "Příběhy vesmíru (2022)",
-          "overview": "Strhující dokumentární seriál o pozoruhodném příběhu našeho vesmíru, který vznikl před miliardami let a je pevně provázaný s existencí života na planetě Zemi.",
-          "thumb": "https://image.tmdb.org/t/p/w500/6XmlJjJmX5cryq3OANZxdTsr9eY.jpg",
-          "genre_ids": [
-            99
-          ],
-          "genres": [
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=213608",
-          "seasons": [
-            {
-              "season_number": 1,
-              "name": "1. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=213608&season=1&series_title=P%C5%99%C3%ADb%C4%9Bhy+vesm%C3%ADru"
-            }
-          ]
-        },
-        {
-          "title": "The First (2018)",
-          "overview": "Sledujte první lidskou misi na Marsu a prozkoumejte první kroky k meziplanetární kolonizaci. Příběh se zaměřuje nejen na astronauty, ale také na jejich rodiny a blízké, stejně jako na pozemní tým na Zemi.",
-          "thumb": "https://image.tmdb.org/t/p/w500/nSnlOGjeDWWVbDMjQTdYCtavvBv.jpg",
-          "genre_ids": [
-            18,
-            10765
-          ],
-          "genres": [
-            "Drama",
-            "Sci-Fi & Fantasy"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=74159",
-          "seasons": [
-            {
-              "season_number": 1,
-              "name": "1. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=74159&season=1&series_title=The+First"
-            }
-          ]
-        },
-        {
-          "title": "360 (2007)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/b7QcfOKjpf7lA1SGjKXSdG9FX0n.jpg",
-          "genre_ids": [],
-          "genres": [],
-          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=198992",
-          "seasons": [
-            {
-              "season_number": 1,
-              "name": "1. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=198992&season=1&series_title=360"
-            },
-            {
-              "season_number": 2,
-              "name": "2. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=198992&season=2&series_title=360"
-            }
-          ]
-        },
-        {
-          "title": "Toll (2020)",
-          "overview": "",
-          "thumb": "https://image.tmdb.org/t/p/w500/uFO8R2YtfykzYxYZgjKXM8QjnBm.jpg",
-          "genre_ids": [
-            10764,
-            99
-          ],
-          "genres": [
-            "Reality",
-            "Dokumentární"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=102218",
-          "seasons": [
-            {
-              "season_number": 1,
-              "name": "1. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=102218&season=1&series_title=Toll"
-            },
-            {
-              "season_number": 2,
-              "name": "2. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=102218&season=2&series_title=Toll"
-            },
-            {
-              "season_number": 3,
-              "name": "3. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=102218&season=3&series_title=Toll"
-            },
-            {
-              "season_number": 4,
-              "name": "4. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=102218&season=4&series_title=Toll"
-            },
-            {
-              "season_number": 5,
-              "name": "5. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=102218&season=5&series_title=Toll"
-            }
-          ]
-        },
-        {
-          "title": "Critters: A New Binge (2019)",
-          "overview": "Pronásledovaní mezigalaktickými lovci odměn se Critters vracejí na Zemi na tajnou misi a setkávají se s středoškolákem Christopherem, jeho milovanou Danou, jeho nejlepším přítelem Charliem a jeho matkou Veronikou, jejíž minulost se vrátí, aby je kousla - a to doslova.",
-          "thumb": "https://image.tmdb.org/t/p/w500/pS4E3DZ01e5vVD0fgsExyDQBW9R.jpg",
-          "genre_ids": [
-            35,
-            10765
-          ],
-          "genres": [
-            "Komedie",
-            "Sci-Fi & Fantasy"
-          ],
-          "stream_url": "plugin://plugin.video.yawsp/?action=list_seasons&tmdb_id=87208",
-          "seasons": [
-            {
-              "season_number": 1,
-              "name": "1. sezóna",
-              "stream_url": "plugin://plugin.video.yawsp/?action=list_episodes&tmdb_id=87208&season=1&series_title=Critters%3A+A+New+Binge"
             }
           ]
         }
